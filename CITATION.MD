@@ -13,7 +13,7 @@ For BibTeX:
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/yourusername/emc-2}},
-  commit = {[INSERT COMMIT HASH HERE]}
+  commit = {78565bbd5aa35467f4bc26f573b4e10c9c3fc7c1}
 }
 
 When referencing this dataset in text, please use: "EMC-2 eDiscovery Dataset (Benson, 2024)"
