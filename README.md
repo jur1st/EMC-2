@@ -83,31 +83,6 @@ This hybrid approach allowed us to create a dataset that combines the creativity
 
 The Ellingson Mineral Company Synthetic Dataset comprises a rich tapestry of documents that tell the story of a corporate cyber attack and its aftermath. Here's an overview of what you'll find:
 
-### Custodians
-
-1. Hal Benson (CEO) (I swear to you I didn't guide Claude to this name)
-2. Dr. Sarah Chen 
-3. Eugene Belford
-4. Dade Murphy
-5. Margo Wallace
-6. Kate Libby
-7. Richard Gill
-8. Jennifer Mack
-9. jur1st 
-
-### Document Types
-
-1. Emails (including attachments)
-2. Internal memos and reports
-3. Chat logs
-4. Voicemail transcripts
-5. Press releases
-6. News articles
-7. Technical specifications
-8. Financial spreadsheets
-9. Code snippets
-10. System logs
-
 ### Timeline
 
 The main events of the dataset span from approximately October 15 to October 25, 1995, with some documents providing background context from earlier dates.
