@@ -1,0 +1,84 @@
+// Da Vinci Virus - Core Module
+// Version: 3.1.4
+// Author: The Plague
+// Last Modified: 1995-08-21
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+
+#define MAX_TANKERS 100
+#define OIL_SPILL_AMOUNT 5000000 // 5 million gallons
+
+typedef struct {
+	char name[50];
+	float latitude;
+	float longitude;
+	int oil_capacity;
+} OilTanker;
+
+OilTanker tanker_fleet[MAX_TANKERS];
+
+void init_plague_ascii() {
+	printf("    ____  __    ___   ____ __  ______\n");
+	printf("   / __ \\/ /   /   | / __ / / / / __/\n");
+	printf("  / /_/ / /   / /| |/ / / / /_/ / /_  \n");
+	printf(" / ____/ /___/ ___ / /_/ / __  / __/  \n");
+	printf("/_/   /_____/_/  |_\\____/_/ /_/_/     \n");
+	printf("\nDa Vinci Virus activated. Hack the planet!\n\n");
+}
+
+void encrypt_payload(char *data, int size) {
+	// TODO: Implement strong encryption
+	// Current method: XOR with key "HACK THE PLANET"
+	char key[] = "HACK THE PLANET";
+	int key_len = strlen(key);
+	
+	for (int i = 0; i < size; i++) {
+		data[i] ^= key[i % key_len];
+	}
+}
+
+void manipulate_tanker_routes() {
+	srand(time(NULL));
+	for (int i = 0; i < MAX_TANKERS; i++) {
+		// Subtly alter course to cause "accidental" spill
+		tanker_fleet[i].latitude += ((float)rand() / RAND_MAX - 0.5) * 0.1;
+		tanker_fleet[i].longitude += ((float)rand() / RAND_MAX - 0.5) * 0.1;
+	}
+	printf("Tanker routes manipulated. Chaos incoming.\n");
+}
+
+void trigger_oil_spill() {
+	int target_tanker = rand() % MAX_TANKERS;
+	printf("Initiating oil spill from tanker %s\n", tanker_fleet[target_tanker].name);
+	printf("Estimated spill: %d gallons\n", OIL_SPILL_AMOUNT);
+	// Simulate oil spill
+	tanker_fleet[target_tanker].oil_capacity -= OIL_SPILL_AMOUNT;
+}
+
+void manipulate_stock_prices() {
+	// TODO: Implement algorithm to buy oil futures before spill
+	printf("Acquiring oil futures...\n");
+	// Placeholder for actual stock manipulation code
+	printf("Stock prices manipulated. We're rich!\n");
+}
+
+int main() {
+	init_plague_ascii();
+	
+	char payload[] = "INITIATE_GLOBAL_MELTDOWN";
+	encrypt_payload(payload, strlen(payload));
+	
+	manipulate_tanker_routes();
+	trigger_oil_spill();
+	manipulate_stock_prices();
+	
+	printf("\nDa Vinci Virus execution complete.\n");
+	printf("If you see this, you're already too late.\n");
+	return 0;
+}
+
+// Note to self: Remove comments and debug prints before deployment
+// Don't forget to add the GUI module for that sweet skull animation

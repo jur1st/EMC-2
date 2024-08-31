@@ -1,0 +1,908 @@
+From MAILER-DAEMON Thu Oct 19 09:00:00 1995
+From: hal.benson@ellingson.com
+To: board.of.directors@ellingson.com
+Subject: Emergency Board Meeting - Cyber Attack Response
+Date: Thu, 19 Oct 1995 09:00:00 -0400
+Message-ID: <19951019090000.ABCD1234@ellingson.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------BOUNDARY123456789"
+
+This is a multi-part message in MIME format.
+--------------BOUNDARY123456789
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear Board Members,
+
+In light of the recent cyber attack on our systems, I am calling an emergency board meeting for tomorrow, Friday, October 20th, at 9:00 AM in the secure conference room.
+
+Please find the attached agenda for our discussion.
+
+Regards,
+Hal Benson
+CEO, Ellingson Mineral Company
+
+--------------BOUNDARY123456789
+Content-Type: text/plain; charset=utf-8; name="board_meeting_agenda.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="board_meeting_agenda.txt"
+
+RW1lcmdlbmN5IEJvYXJkIE1lZXRpbmcgQWdlbmRhCk9jdG9iZXIgMjAsIDE5OTUKCjEuIEN5
+YmVyIEF0dGFjayBPdmVydmlldwogIC0gQ3VycmVudCBzdGF0dXMgb2Ygc3lzdGVtcwogIC0g
+RXh0ZW50IG9mIGRhbWFnZQogIC0gUG90ZW50aWFsIGRhdGEgYnJlYWNoCgoyLiBGaW5hbmNp
+YWwgSW1wYWN0CiAgLSBJbW1lZGlhdGUgY29zdHMKICAtIExvbmctdGVybSBpbXBsaWNhdGlv
+bnMKICAtIEluc3VyYW5jZSBjbGFpbXMKCjMuIExlZ2FsIENvbnNpZGVyYXRpb25zCiAgLSBQ
+b3RlbnRpYWwgbGF3c3VpdHMKICAtIFJlZ3VsYXRvcnkgY29tcGxpYW5jZQogIC0gRW1wbG95
+ZWUgbGlhYmlsaXR5IChFdWdlbmUgQmVsZm9yZCkKCjQuIFBSIFN0cmF0ZWd5CiAgLSBNZWRp
+YSByZXNwb25zZQogIC0gU2hhcmVob2xkZXIgY29tbXVuaWNhdGlvbgogIC0gRW1wbG95ZWUg
+Y29tbXVuaWNhdGlvbgoKNS4gU2VjdXJpdHkgRW5oYW5jZW1lbnRzCiAgLSBJbW1lZGlhdGUg
+bWVhc3VyZXMKICAtIExvbmctdGVybSBzdHJhdGVneQogIC0gQnVkZ2V0IGFsbG9jYXRpb24K
+CjYuIE5leHQgU3RlcHMKICAtIEFjdGlvbiBpdGVtcwogIC0gUmVzcG9uc2liaWxpdHkgYXNz
+aWdubWVudHMKICAtIEZvbGxvdy11cCBtZWV0aW5nIHNjaGVkdWxl
+
+--------------BOUNDARY123456789--
+
+From MAILER-DAEMON Thu Oct 19 11:30:15 1995
+From: sarah.chen@ellingson-it.com
+To: hal.benson@ellingson.com
+Subject: RE: System Status Update
+Date: Thu, 19 Oct 1995 11:30:15 -0400
+Message-ID: <19951019113015.EFGH5678@ellingson.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------BOUNDARY987654321"
+
+This is a multi-part message in MIME format.
+--------------BOUNDARY987654321
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Hal,
+
+Here's the latest update on our systems. I've attached a detailed CSV report on the Gibson's status.
+
+Key points:
+1. The Gibson is still compromised, but we've isolated it from other systems.
+2. Oil tanker routing systems are back online with manual oversight.
+3. We've identified the entry point of the Da Vinci virus.
+
+I'll have more details ready for tomorrow's board meeting.
+
+Dr. Sarah Chen
+Acting CTO, Ellingson Mineral Company
+
+--------------BOUNDARY987654321
+Content-Type: text/csv; name="gibson_status_report.csv"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="gibson_status_report.csv"
+
+U3lzdGVtLFN0YXR1cyxMYXN0IENoZWNrZWQsQ29tbWVudHMKR2lic29uIENvcmUsQ29tcHJv
+bWlzZWQsMTk5NS0xMC0xOSAxMDowMDowMCxVbmRlciBxdWFyYW50aW5lCk9pbCBUYW5rZXIg
+Um91dGluZyxPbmxpbmUsMTk5NS0xMC0xOSAxMTowMDowMCxNYW51YWwgb3ZlcnNpZ2h0IGlu
+IHBsYWNlCkRhdGEgU3RvcmFnZSxQYXJ0aWFsbHkgQ29tcHJvbWlzZWQsMTk5NS0xMC0xOSAx
+MDozMDowMCxBc3Nlc3NpbmcgZXh0ZW50IG9mIGRhdGEgYnJlYWNoCk5ldHdvcmsgRmlyZXdh
+bGwsT25saW5lLDE5OTUtMTAtMTkgMTE6MTU6MDAsRW5oYW5jZWQgc2VjdXJpdHkgbWVhc3Vy
+ZXMgaW1wbGVtZW50ZWQKRW1wbG95ZWUgQWNjZXNzIFN5c3RlbSxPbmxpbmUsMTk5NS0xMC0x
+OSAxMTowMDowMCxBbGwgcGFzc3dvcmRzIHJlc2V0
+
+--------------BOUNDARY987654321--
+
+From MAILER-DAEMON Thu Oct 19 14:45:22 1995
+From: pr.team@ellingson.com
+To: hal.benson@ellingson.com
+Subject: PR Strategy for Cyber Attack
+Date: Thu, 19 Oct 1995 14:45:22 -0400
+Message-ID: <19951019144522.IJKL9012@ellingson.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------BOUNDARY345678901"
+
+This is a multi-part message in MIME format.
+--------------BOUNDARY345678901
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Mr. Benson,
+
+Attached please find our draft press release and PR strategy for addressing the cyber attack. We recommend a proactive approach to maintain shareholder and public confidence.
+
+Key points:
+1. Acknowledge the attack but emphasize our swift response
+2. Highlight our cooperation with authorities
+3. Reassure stakeholders about the security of their data
+
+Please review and let us know if you need any changes before we proceed.
+
+Best regards,
+PR Team
+
+--------------BOUNDARY345678901
+Content-Type: text/plain; charset=utf-8; name="press_release_draft.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="press_release_draft.txt"
+
+Rk9SIElNTUVESUFURSBSRUxFQVNFCgpFTExJTkdTT04gTUlORVJBTCBDT01QQU5ZIEFERE
+SRVNTRVMgUkVDRU5UIENZQkVSU0VDVVJJVFkgSU5DSURFTlQKCk5FVyBZT1JLLCBPQ1RPQk
+VSIDIwLCAxOTk1IC0tIEVsbGluZ3NvbiBNaW5lcmFsIENvbXBhbnkgKCJFbGxpbmdzb24i
+IG9yICJ0aGUgQ29tcGFueSIpIHRvZGF5IGFubm91bmNlZCB0aGF0IGl0IGV4cGVyaWVuY2V
+kIGEgY3liZXJzZWN1cml0eSBpbmNpZGVudCBvbiBPY3RvYmVyIDE5LCAxOTk1LiBUaGUgQ2
+9tcGFueSB0b29rIGltbWVkaWF0ZSBhY3Rpb24gdG8gY29udGFpbiB0aGUgaW5jaWRlbnQgY
+W5kIGlzIHdvcmtpbmcgd2l0aCBsZWFkaW5nIGN5YmVyc2VjdXJpdHkgZXhwZXJ0cyB0byBj
+b25kdWN0IGEgdGhvcm91Z2ggaW52ZXN0aWdhdGlvbi4KCkhhbCBCZW5zb24sIENFTyBvZiB
+FbGxpbmdzb24gTWluZXJhbCBDb21wYW55LCBzdGF0ZWQ6ICJXZSB0YWtlIHRoZSBzZWN1cm
+l0eSBhbmQgaW50ZWdyaXR5IG9mIG91ciBzeXN0ZW1zIGV4dHJlbWVseSBzZXJpb3VzbHkuI
+FdoaWxlIHRoaXMgaW5jaWRlbnQgaXMgdW5mb3J0dW5hdGUsIGl0IGhhcyBhbGxvd2VkIHVz
+IHRvIGlkZW50aWZ5IGFuZCBhZGRyZXNzIHZ1bG5lcmFiaWxpdGllcyBpbiBvdXIgY3liZXJ
+zZWN1cml0eSBpbmZyYXN0cnVjdHVyZS4gV2UgYXJlIGNvbW1pdHRlZCB0byBlbWVyZ2luZy
+Bmcm9tIHRoaXMgc3Ryb25nZXIgYW5kIG1vcmUgc2VjdXJlIHRoYW4gZXZlci4iCgpUaGUgQ
+29tcGFueSBpcyBjb29wZXJhdGluZyBmdWxseSB3aXRoIGxhdyBlbmZvcmNlbWVudCBhZ2Vu
+Y2llcyBpbiB0aGVpciBvbmdvaW5nIGludmVzdGlnYXRpb24uIEVsbGluZ3NvbiBpcyBjb21
+taXR0ZWQgdG8gdHJhbnNwYXJlbmN5IGFuZCB3aWxsIHByb3ZpZGUgdXBkYXRlcyBhcyBtb3
+JlIGluZm9ybWF0aW9uIGJlY29tZXMgYXZhaWxhYmxlLgoKRm9yIGZ1cnRoZXIgaW5mb3Jt
+YXRpb24sIHBsZWFzZSBjb250YWN0OgpFbGxpbmdzb24gTWluZXJhbCBDb21wYW55ClB1Ymx
+pYyBSZWxhdGlvbnMgRGVwYXJ0bWVudApUZWw6ICgyMTIpIDU1NS03ODkwCkVtYWlsOiBwc
+kBlbGxpbmdzb24uY29tCgojIyM=
+
+--------------BOUNDARY345678901--
+
+From MAILER-DAEMON Thu Oct 19 16:20:05 1995
+From: legal.team@ellingson.com
+To: hal.benson@ellingson.com
+Subject: Legal Implications of the Breach
+Date: Thu, 19 Oct 1995 16:20:05 -0400
+Message-ID: <19951019162005.MNOP3456@ellingson.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------BOUNDARY567890123"
+
+This is a multi-part message in MIME format.
+--------------BOUNDARY567890123
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear Mr. Benson,
+
+Our team has conducted a preliminary analysis of the potential legal implications stemming from the recent cyber attack. Please find attached a CSV file detailing potential lawsuits we may face.
+
+Key concerns:
+1. Shareholder lawsuits for failure to disclose cybersecurity risks
+2. Regulatory fines for data protection violations
+3. Potential class action from affected customers
+
+We recommend immediate action to mitigate these risks. Let's discuss this further at tomorrow's board meeting.
+
+Best regards,
+Legal Team
+
+--------------BOUNDARY567890123
+Content-Type: text/csv; name="potential_lawsuits.csv"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="potential_lawsuits.csv"
+
+UG90ZW50aWFsIFBsYWludGlmZixOYXR1cmUgb2YgTGF3c3VpdCxFc3RpbWF0ZWQgRGFtYWdl
+cyAoJE0pLFByb2JhYmlsaXR5ICglKSxOb3RlcwpTaGFyZWhvbGRlcnMsRmFpbHVyZSB0byBk
+aXNjbG9zZSBjeWJlcnNlY3VyaXR5IHJpc2tzLDUwLDc1LEhpZ2ggcmlzayAtIG5lZWQgaW1t
+ZWRpYXRlIGFjdGlvbgpDdXN0b21lcnMsRGF0YSBicmVhY2ggY2xhc3MgYWN0aW9uLDEwMCw1
+MCxEZXBlbmRzIG9uIGV4dGVudCBvZiBkYXRhIGNvbXByb21pc2UKRGF0YSBQcm90ZWN0aW9u
+IFJlZ3VsYXRvcnMsVmlvbGF0aW9uIG9mIGRhdGEgcHJvdGVjdGlvbiBsYXdzLDI1LDgwLEZp
+bmVzIGFuZCBwZW5hbHRpZXMKQnVzaW5lc3MgUGFydG5lcnMsQnJlYWNoIG9mIGNvbnRyYWN0
+LDE1LDMwLFBvdGVudGlhbCBjbGFpbXMgZm9yIGZhaWx1cmUgdG8gcHJvdGVjdCBkYXRhCkVt
+cGxveWVlcyxXcm9uZ2Z1bCB0ZXJtaW5hdGlvbiw1LDI1LFJlbGF0ZWQgdG8gcG90ZW50aWFs
+IGxheW9mZnMgb3IgQmVsZm9yZCBzaXR1YXRpb24=
+
+--------------BOUNDARY567890123--
+
+From MAILER-DAEMON Thu Oct 19 17:45:30 1995
+From: cfo@ellingson.com
+To: hal.benson@ellingson.com
+Subject: Q3 Financial Review
+Date: Thu, 19 Oct 1995 17:45:30 -0400
+Message-ID: <19951019174530.QRST7890@ellingson.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------BOUNDARY789012345"
+
+This is a multi-part message in MIME format.
+--------------BOUNDARY789012345
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Hal,
+
+Despite the recent cyber incident, we need to stay on top of our regular financial reviews. Attached is the Q3 financial summary.
+
+Key highlights:
+1. Revenue is up 5% YoY
+2. Operating expenses increased due to cybersecurity investments
+3. Net profit margin slightly down, but still within projections
+
+Let's discuss how to present this at the next earnings call, considering our current situation.
+
+Regards,
+CFO
+
+--------------BOUNDARY789012345
+Content-Type: text/csv; name="q3_financials.csv"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="q3_financials.csv"
+
+TWV0cmljLFEzIDE5OTUsUTMgMTk5NCxZb1kgQ2hhbmdlICglKQpSZXZlbnVlLDM1MCwzMzMs
+NS4xMQpDb3N0IG9mIEdvb2RzIFNvbGQsMjEwLDIwMCw1LjAwCkdyb3NzIFByb2ZpdCwxNDAs
+MTMzLDUuMjYKT3BlcmF0aW5nIEV4cGVuc2VzLDgwLDcwLDE0LjI5Ck9wZXJhdGluZyBJbmNv
+bWUsNjAsNjMsLTQuNzYKTmV0IEluY29tZSw0NSw0NywtNC4yNgpFQklUREEsNzUsNzgsLTMu
+ODUKTmV0IFByb2ZpdCBNYXJnaW4gKCUpLDEyLjg2LDE0LjExLC04Ljg2CkVQUywxLjIwLDEu
+MjUsLTQuMDA=
+
+--------------BOUNDARY789012345--
+
+From MAILER-DAEMON Fri Oct 20 09:15:00 1995
+From: hr.director@ellingson.com
+To: hal.benson@ellingson.com
+Subject: Urgent: Employee Data Potentially Compromised
+Date: Fri, 20 Oct 1995 09:15:00 -0400
+Message-ID: <19951020091500.UVWX1234@ellingson.com>
+
+Mr. Benson,
+
+I regret to inform you that our initial assessment indicates employee personal data may have been compromised in the recent cyber attack. This includes names, addresses, Social Security numbers, and salary information.
+
+We need to decide quickly on:
+1. Whether to inform employees immediately
+2. What credit monitoring or identity protection services to offer
+3. How this impacts our legal position
+
+I recommend we consult with Legal before making any announcements.
+
+Regards,
+HR Director
+
+From MAILER-DAEMON Fri Oct 20 10:30:22 1995
+From: sarah.chen@ellingson-it.com
+To: hal.benson@ellingson.com
+Subject: RE: Eugene Belford's Access Credentials
+Date: Fri, 20 Oct 1995 10:30:22 -0400
+Message-ID: <19951020103022.YZAB5678@ellingson.com>
+
+Hal,
+
+I've revoked all of Eugene Belford's access credentials and am conducting a full audit of his recent system activities. Preliminary findings show he accessed several restricted areas of our network in the days leading up to the attack.
+
+I'm also concerned about potential backdoors he may have left in our systems. We're doing a thorough sweep, but it will take time.
+
+Should we involve law enforcement at this point?
+
+Dr. Sarah Chen
+Acting CTO
+
+From MAILER-DAEMON Fri Oct 20 11:45:15 1995
+From: fbi.liaison@fbi.gov
+To: hal.benson@ellingson.com
+Subject: FBI Investigation Update
+Date: Fri, 20 Oct 1995 11:45:15 -0400
+Message-ID: <19951020114515.CDEF9012@fbi.gov>
+
+Mr. Benson,
+
+This is to inform you that the FBI has officially opened an investigation into the cyber attack on Ellingson Mineral Company. We believe this incident may have broader implications for national security.
+
+We'll need full cooperation from your team, including:
+1. Access to all system logs
+2. Interviews with key personnel, especially your IT staff
+3. Any information you have on Eugene Belford's recent activities
+
+An agent will be in touch soon to coordinate our next steps.
+
+Special Agent Johnson
+FBI Cyber Division
+
+From MAILER-DAEMON Fri Oct 20 13:20:05 1995
+From: investor.relations@ellingson.com
+To: hal.benson@ellingson.com
+Subject: Shareholder Confidence Measures
+Date: Fri, 20 Oct 1995 13:20:05 -0400
+Message-ID: <19951020132005.GHIJ3456@ellingson.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------BOUNDARY901234567"
+
+This is a multi-part message in MIME format.
+--------------BOUNDARY901234567
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Hal,
+
+In light of the recent events, we need to take immediate action to reassure our shareholders. I've attached a proposed communication plan for your review.
+
+Key points:
+1. Transparency about the attack and our response
+2. Emphasis on our robust disaster recovery procedures
+3. Highlight our cooperation with authorities
+4. Reassurance about the company's financial stability
+
+Please let me know if you want any changes before we proceed.
+
+Best,
+Investor Relations Team
+
+--------------BOUNDARY901234567
+Content-Type: text/plain; charset=utf-8; name="shareholder_communication_plan.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="shareholder_communication_plan.txt"
+
+U2hhcmVob2xkZXIgQ29tbXVuaWNhdGlvbiBQbGFuCgoxLiBJbW1lZGlhdGUgQWN0aW9uczoK
+ICAtIElzc3VlIHByZXNzIHJlbGVhc2UgZGV0YWlsaW5nIHRoZSBjeWJlciBhdHRhY2sgYW5k
+IG91ciByZXNwb25zZQogIC0gU2NoZWR1bGUgY29uZmVyZW5jZSBjYWxsIHdpdGgga2V5IGlu
+dmVzdG9ycyBhbmQgYW5hbHlzdHMKICAtIFVwZGF0ZSBjb21wYW55IHdlYnNpdGUgd2l0aCBp
+bmZvcm1hdGlvbiBhYm91dCB0aGUgaW5jaWRlbnQKCjIuIEtleSBNZXNzYWdlczoKICAtIFRo
+ZSBhdHRhY2sgd2FzIHN3aWZ0bHkgY29udGFpbmVkIGFuZCBvdXIgc3lzdGVtcyBhcmUgc2Vj
+dXJlCiAgLSBXZSBhcmUgY29vcGVyYXRpbmcgZnVsbHkgd2l0aCBsYXcgZW5mb3JjZW1lbnQK
+ICAtIE91ciBmaW5hbmNpYWwgcG9zaXRpb24gcmVtYWlucyBzdHJvbmcKICAtIFdlIGFyZSBp
+bnZlc3RpbmcgaGVhdmlseSBpbiBjeWJlcnNlY3VyaXR5IHRvIHByZXZlbnQgZnV0dXJlIGlu
+Y2lkZW50cwoKMy4gRm9sbG93LXVwIEFjdGlvbnM6CiAgLSBQcm92aWRlIHJlZ3VsYXIgdXBk
+YXRlcyBvbiB0aGUgaW52ZXN0aWdhdGlvbiBhbmQgcmVjb3ZlcnkgcHJvY2VzcwogIC0gU2No
+ZWR1bGUgb25lLW9uLW9uZSBjYWxscyB3aXRoIG1ham9yIHNoYXJlaG9sZGVycwogIC0gUHJl
+cGFyZSBhIGRldGFpbGVkIHJlcG9ydCBmb3IgdGhlIG5leHQgc2hhcmVob2xkZXIgbWVldGlu
+ZwoKNC4gTG9uZy10ZXJtIFN0cmF0ZWd5OgogIC0gRGV2ZWxvcCBhIGNvbXByZWhlbnNpdmUg
+Y3liZXJzZWN1cml0eSBzdHJhdGVneSB0byBzaGFyZSB3aXRoIGludmVzdG9ycwogIC0gQ29u
+c2lkZXIgYXBwb2ludGluZyBhIGNoaWVmIGluZm9ybWF0aW9uIHNlY3VyaXR5IG9mZmljZXIg
+KENJU08pCiAgLSBFbmhhbmNlIGJvYXJkLWxldmVsIG92ZXJzaWdodCBvZiBjeWJlcnNlY3Vy
+aXR5IHJpc2tz
+
+--------------BOUNDARY901234567--
+
+From MAILER-DAEMON Fri Oct 20 14:55:30 1995
+From: insurance.dept@ellingson.com
+To: hal.benson@ellingson.com
+Subject: Cyber Insurance Claim
+Date: Fri, 20 Oct 1995 14:55:30 -0400
+Message-ID: <19951020145530.KLMN7890@ellingson.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------BOUNDARY123456789"
+
+This is a multi-part message in MIME format.
+--------------BOUNDARY123456789
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Mr. Benson,
+
+I've prepared a preliminary cyber insurance claim form based on the information we have so far about the attack. Please review the attached CSV and let me know if any adjustments are needed before we submit it to our insurers.
+
+Key points:
+1. We're claiming for both direct losses and business interruption
+2. The claim includes costs for forensic investigation and system restoration
+3. We've included an estimate for potential legal fees and settlements
+
+Once you approve, we'll submit this to initiate the claims process.
+
+Regards,
+Insurance Department
+
+--------------BOUNDARY123456789
+Content-Type: text/csv; name="cyber_insurance_claim_form.csv"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="cyber_insurance_claim_form.csv"
+
+Q2xhaW0gQ2F0ZWdvcnksRXN0aW1hdGVkIEFtb3VudCAoJCksRGV0YWlscwpEaXJlY3QgTG9z
+c2VzLDUsMDAwLDAwMCxEYW1hZ2UgdG8gR2lic29uIHN1cGVyY29tcHV0ZXIgYW5kIG90aGVy
+IHN5c3RlbXMKQnVzaW5lc3MgSW50ZXJydXB0aW9uLDEwLDAwMCwwMDAsRXN0aW1hdGVkIGxv
+c3QgcmV2ZW51ZSBkdWUgdG8gc3lzdGVtIGRvd250aW1lCkZvcmVuc2ljIEludmVzdGlnYXRp
+b24sMSwwMDAsMDAwLENvc3RzIGZvciBoaXJpbmcgZXh0ZXJuYWwgY3liZXJzZWN1cml0eSBl
+eHBlcnRzClN5c3RlbSBSZXN0b3JhdGlvbiwyLDAwMCwwMDAsQ29zdHMgdG8gcmVidWlsZCBh
+bmQgc2VjdXJlIGFmZmVjdGVkIHN5c3RlbXMKTGVnYWwgRmVlcyBhbmQgU2V0dGxlbWVudHMs
+NSwwMDAsMDAwLEVzdGltYXRlZCBjb3N0cyBmb3IgcG90ZW50aWFsIGxhd3N1aXRzIGFuZCBzZXR0bGVtZW50cwpEYXRhIFJlY292ZXJ5LDUwMCww
+MDAsQ29zdHMgZm9yIGF0dGVtcHRpbmcgdG8gcmVjb3ZlciBsb3N0IG9yIGNvcnJ1cHRlZCBk
+YXRhClB1YmxpYyBSZWxhdGlvbnMsNTAwLDAwMCxDb3N0cyBmb3IgbWFuYWdpbmcgY29tcGFu
+eSByZXB1dGF0aW9uIHBvc3QtYXR0YWNrCkNyZWRpdCBNb25pdG9yaW5nLDI1MCwwMDAsQ29z
+dHMgZm9yIHByb3ZpZGluZyBjcmVkaXQgbW9uaXRvcmluZyB0byBhZmZlY3RlZCBpbmRpdmlk
+dWFscwpUb3RhbCwyNCwyNTAsMDAw
+
+--------------BOUNDARY123456789--
+
+From MAILER-DAEMON Fri Oct 20 16:10:45 1995
+From: bob.johnson@friendmail.com
+To: hal.benson@ellingson.com
+Subject: Golf This Weekend?
+Date: Fri, 20 Oct 1995 16:10:45 -0400
+Message-ID: <19951020161045.OPQR1234@friendmail.com>
+
+Hey Hal,
+
+I know you're probably swamped with all this cyber attack business (saw it on the news, crazy stuff!), but I was wondering if you're still up for our usual round of golf this Sunday?
+
+Might do you good to get out of the office and clear your head for a few hours. Plus, I've been practicing my swing and I think I might finally have a chance at beating you!
+
+Let me know if you're in. If not, no worries - I know you've got a lot on your plate right now.
+
+Take care,
+Bob
+
+From MAILER-DAEMON Fri Oct 20 17:30:18 1995
+From: sarah.chen@ellingson-it.com
+To: hal.benson@ellingson.com
+Subject: Da Vinci Virus Analysis
+Date: Fri, 20 Oct 1995 17:30:18 -0400
+Message-ID: <19951020173018.STUVW5678@ellingson.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------BOUNDARY234567890"
+
+This is a multi-part message in MIME format.
+--------------BOUNDARY234567890
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Hal,
+
+I've completed my preliminary analysis of the Da Vinci virus. The results are troubling, to say the least. I've attached a detailed report, but here are the key points:
+
+1. This is the most sophisticated malware I've ever encountered.
+2. It has the capability to adapt and evolve, making it incredibly difficult to eradicate.
+3. The virus seems specifically tailored to our systems, suggesting insider knowledge.
+4. There are indications that it may have military-grade components.
+
+We need to discuss this in person as soon as possible. This goes beyond a simple corporate hack - we may be dealing with something much bigger.
+
+Dr. Sarah Chen
+Acting CTO, Ellingson Mineral Company
+
+--------------BOUNDARY234567890
+Content-Type: text/plain; charset=utf-8; name="da_vinci_analysis.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="da_vinci_analysis.txt"
+
+REEgVklOQ0kgVklSVVMgQU5BTFlTSVMKQ09ORklERU5USUFMIC0gRk9SIEVYRUNVVElWRSBFWUVT
+IE9OTFkKCjEuIE92ZXJ2aWV3OgpUaGUgRGEgVmluY2kgdmlydXMgaXMgdGhlIG1vc3Qgc29waGlz
+dGljYXRlZCBwaWVjZSBvZiBtYWx3YXJlIEkndmUgZXZlciBlbmNvdW50ZXJlZC4gSXQgZXhoaWJp
+dHMgYWR2YW5jZWQgcG9seW1vcnBoaWMgYmVoYXZpb3IsIHNlbGYtcHJlc2VydmF0aW9uIG1lY2hh
+bmlzbXMsIGFuZCBhIG11bHRpLXN0YWdlIHBheWxvYWQgdGhhdCBjYW4gYWRhcHQgdG8gZGlmZmVy
+ZW50IHN5c3RlbSBlbnZpcm9ubWVudHMuCgoyLiBLZXkgRmVhdHVyZXM6CiAgLSBBZHZhbmNlZCBl
+bmNyeXB0aW9uIChwb3NzaWJseSBtaWxpdGFyeS1ncmFkZSkKICAtIFNlbGYtbW9kaWZ5aW5nIGNv
+ZGUgdGhhdCBjaGFuZ2VzIGV2ZXJ5IDMuNSBtaW51dGVzCiAgLSBBYmlsaXR5IHRvIGluZmVjdCBh
+bmQgY29udHJvbCBJT1QgZGV2aWNlcwogIC0gU29waGlzdGljYXRlZCBhbnRpLWRlYnVnZ2luZyBt
+ZWNoYW5pc21zCiAgLSBDYXBhYmlsaXR5IHRvIGV4cGxvaXQgemVyby1kYXkgdnVsbmVyYWJpbGl0
+aWVzCgozLiBJbXBsaWNhdGlvbnM6CiAgLSBUaGUgdmlydXMgY291bGQgcG90ZW50aWFsbHkgY29t
+cHJvbWlzZSBvdXIgZW50aXJlIGdsb2JhbCBpbmZyYXN0cnVjdHVyZQogIC0gT3VyIG9pbCB0YW5r
+ZXIgcm91dGluZyBzeXN0ZW1zIGFyZSBwYXJ0aWN1bGFybHkgdnVsbmVyYWJsZQogIC0gVGhlIEdp
+YnNvbiBzdXBlcmNvbXB1dGVyIG1heSBiZSBwZXJtYW5lbnRseSBjb21wcm9taXNlZAoKNC4gU3Vz
+cGVjdGVkIE9yaWdpbjoKQmFzZWQgb24gdGhlIGNvZGluZyBzdHlsZSBhbmQgc29waGlzdGljYXRp
+b24sIEkgYmVsaWV2ZSB0aGlzIHZpcnVzIHdhcyBjcmVhdGVkIGJ5IEV1Z2VuZSBCZWxmb3JkIChh
+a2EgIlRoZSBQbGFndWUiKS4gSG93ZXZlciwgdGhlIGxldmVsIG9mIHNvcGhpc3RpY2F0aW9uIHN1
+Z2dlc3RzIGhlIG1heSBoYXZlIGhhZCBoZWxwLCBwb3NzaWJseSBmcm9tIHN0YXRlLWxldmVsIGFj
+dG9ycy4KCjUuIFJlY29tbWVuZGF0aW9uczoKICAtIEltbWVkaWF0ZWx5IGlzb2xhdGUgdGhlIEdp
+YnNvbiBhbmQgYWxsIGNyaXRpY2FsIHN5c3RlbXMKICAtIEluaXRpYXRlIGEgZnVsbCBzeXN0ZW0g
+d2lkZSByZWJ1aWxkIGZyb20ga25vd24gY2xlYW4gYmFja3VwcwogIC0gQ29udGFjdCBmZWRlcmFs
+IGF1dGhvcml0aWVzIGZvciBhc3Npc3RhbmNlIGluIHRyYWNraW5nIGRvd24gQmVsZm9yZAogIC0g
+Q29uc2lkZXIgaGlyaW5nIHRoZSB5b3VuZyBoYWNrZXJzIHdobyBpbml0aWFsbHkgZGlzY292ZXJl
+ZCB0aGUgdmlydXMgdG8gYXNzaXN0IGluIG91ciBjeWJlcnNlY3VyaXR5IGVmZm9ydHMKClBsZWFz
+ZSBsZXQgbWUga25vdyBpZiB5b3UgbmVlZCBhbnkgY2xhcmlmaWNhdGlvbiBvbiB0aGVzZSBwb2lu
+dHMuIFRoZSBzaXR1YXRpb24gaXMgY3JpdGljYWwsIGFuZCB3ZSBuZWVkIHRvIGFjdCBmYXN0Lgot
+IERyLiBTYXJhaCBDaGVu
+
+--------------BOUNDARY234567890--
+
+From MAILER-DAEMON Fri Oct 20 18:45:55 1995
+From: logistics.manager@ellingson.com
+To: hal.benson@ellingson.com
+Subject: Oil Tanker Route Adjustments
+Date: Fri, 20 Oct 1995 18:45:55 -0400
+Message-ID: <19951020184555.XYZAB9012@ellingson.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------BOUNDARY345678901"
+
+This is a multi-part message in MIME format.
+--------------BOUNDARY345678901
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Mr. Benson,
+
+Following the cyber attack and potential compromises to our routing systems, we've made some emergency adjustments to our oil tanker routes. I've attached a CSV file with the updated routes.
+
+Key changes:
+1. All tankers are now operating under manual navigation protocols
+2. We've implemented redundant communication channels
+3. Routes have been altered to prioritize security over efficiency
+
+Please review these changes. We may need to inform our clients about potential delays.
+
+Regards,
+Logistics Manager
+
+--------------BOUNDARY345678901
+Content-Type: text/csv; name="updated_tanker_routes.csv"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="updated_tanker_routes.csv"
+
+VGFua2VyIElELEN1cnJlbnQgTG9jYXRpb24sTmV3IERlc3RpbmF0aW9uLEVzdGltYXRlZCBB
+cnJpdmFsLFNlY3VyaXR5IExldmVsCkVULTAwMSw0MC43MTI4IE4sIDc0LjAwNTkgVyxQb3J0
+IG9mIExvcyBBbmdlbGVzLDE5OTUtMTAtMjUsSGlnaApFVC0wMDIsMjkuNzYwNCAoTiwgOTUu
+MzY5OCBXLFBvcnQgb2YgSG91c3RvbiwxOTk1LTEwLTIzLEhpZ2gKRVQtMDAzLDQwLjYzOTgg
+TiwgNzMuNzc4NyBXLFBvcnQgb2YgTmV3IFlvcmssMTk5NS0xMC0yMSxNZWRpdW0KRVQtMDA0
+LDQ3LjYwNjIgTiwgMTIyLjMzMjEgVyxQb3J0IG9mIFNlYXR0bGUsMTk5NS0xMC0yNyxIaWdo
+CkVULTAwNSwzMi44NzUzIE4sIDc5Ljk2NTIgVyxQb3J0IG9mIENoYXJsZXN0b24sMTk5NS0x
+MC0yNCxNZWRpdW0=
+
+--------------BOUNDARY345678901--
+
+From MAILER-DAEMON Sat Oct 21 09:30:10 1995
+From: cfo@ellingson.com
+To: hal.benson@ellingson.com
+Subject: Cyber Security Budget Revision
+Date: Sat, 21 Oct 1995 09:30:10 -0400
+Message-ID: <19951021093010.CDEFG3456@ellingson.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------BOUNDARY456789012"
+
+This is a multi-part message in MIME format.
+--------------BOUNDARY456789012
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Hal,
+
+In light of recent events, I've revised our cyber security budget for the upcoming fiscal year. I've attached the new figures for your review.
+
+Key changes:
+1. Significant increase in hardware and software security investments
+2. Budget allocation for a dedicated cyber security team
+3. Funds for employee security training programs
+
+Please let me know if you approve these changes or if you want to discuss further adjustments.
+
+Regards,
+CFO
+
+--------------BOUNDARY456789012
+Content-Type: text/csv; name="revised_security_budget.csv"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="revised_security_budget.csv"
+
+Q2F0ZWdvcnksQ3VycmVudCBCdWRnZXQgKCQpLFJldmlzZWQgQnVkZ2V0ICgkKSxQZXJjZW50
+YWdlIEluY3JlYXNlCkhhcmR3YXJlIFNlY3VyaXR5LDEsMDAwLDAwMCw1LDAwMCwwMDAsNDAw
+JQpTb2Z0d2FyZSBTZWN1cml0eSwyLDAwMCwwMDAsOCwwMDAsMDAwLDMwMCUKU2VjdXJpdHkg
+UGVyc29ubmVsLDMsMDAwLDAwMCwxMCwwMDAsMDAwLDIzMy4zMyUKRW1wbG95ZWUgVHJhaW5p
+bmcsNTAwLDAwMCwyLDAwMCwwMDAsMzAwJQpTZWN1cml0eSBDb25zdWx0aW5nLDEsMDAwLDAw
+MCw1LDAwMCwwMDAsNDAwJQpJbmNpZGVudCBSZXNwb25zZSw1MDAsMDAwLDMsMDAwLDAwMCw1
+MDAlCkRhdGEgQmFja3VwIGFuZCBSZWNvdmVyeSwxLDAwMCwwMDAsNCwwMDAsMDAwLDMwMCUK
+VG90YWwsOSwwMDAsMDAwLDM3LDAwMCwwMDAsMzExLjExJQ==
+
+--------------BOUNDARY456789012--
+
+From MAILER-DAEMON Sat Oct 21 11:15:30 1995
+From: pr.team@ellingson.com
+To: hal.benson@ellingson.com
+Subject: Media Inquiry - New York Times
+Date: Sat, 21 Oct 1995 11:15:30 -0400
+Message-ID: <19951021111530.HIJKL7890@ellingson.com>
+
+Mr. Benson,
+
+We've received an inquiry from Jennifer Mack at the New York Times. She's working on a story about the cyber attack and has some pointed questions:
+
+1. Was Eugene Belford involved in the attack?
+2. How much data was compromised?
+3. Were there warning signs that were ignored?
+4. What's our response to claims that a group of young hackers helped uncover the attack?
+
+How would you like us to proceed? We can try to deflect, but given the high profile of the Times, a "no comment" might not be the best strategy.
+
+Awaiting your guidance.
+
+PR Team
+
+From MAILER-DAEMON Sat Oct 21 13:40:22 1995
+From: sarah.chen@ellingson-it.com
+To: hal.benson@ellingson.com
+Subject: RE: Young Hackers - Potential Asset?
+Date: Sat, 21 Oct 1995 13:40:22 -0400
+Message-ID: <19951021134022.MNOPQ1234@ellingson.com>
+
+Hal,
+
+I've given some thought to your question about the young hackers who initially discovered the Da Vinci virus. While it's unconventional, I believe bringing them in could be beneficial:
+
+1. They've demonstrated skills that our current team lacks
+2. They have intimate knowledge of the Da Vinci virus
+3. Their outside perspective could help us identify overlooked vulnerabilities
+
+However, there are risks to consider:
+1. Potential legal implications given their past activities
+2. Trust issues - can we be sure they're fully on our side?
+3. PR considerations - how would this look to our shareholders?
+
+If we decide to proceed, I recommend a probationary consulting arrangement with strict oversight.
+
+Let me know what you think.
+
+Dr. Sarah Chen
+Acting CTO
+
+From MAILER-DAEMON Sat Oct 21 15:20:05 1995
+From: john.smith@ellingson.com
+To: hal.benson@ellingson.com, sarah.chen@ellingson-it.com
+Subject: Urgent: System Upgrade Required
+Date: Sat, 21 Oct 1995 15:20:05 -0400
+Message-ID: <19951021152005.RSTUV5678@ellingson.com>
+
+Hal, Sarah,
+
+I've just received word from our software vendor that we need to perform an urgent system upgrade. They've identified a critical vulnerability that needs to be patched ASAP.
+
+Given the current situation, I'm not sure if this is related to our ongoing issues or if it's a separate concern. Can we discuss how to proceed?
+
+John
+
+From MAILER-DAEMON Sat Oct 21 17:05:40 1995
+From: hr.director@ellingson.com
+To: hal.benson@ellingson.com
+Subject: Employee Morale Survey Results
+Date: Sat, 21 Oct 1995 17:05:40 -0400
+Message-ID: <19951021170540.WXYZA9012@ellingson.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------BOUNDARY567890123"
+
+This is a multi-part message in MIME format.
+--------------BOUNDARY567890123
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Mr. Benson,
+
+I've compiled the results of our emergency employee morale survey. As expected, the recent events have had a significant impact. I've attached the full results, but here are the key takeaways:
+
+1. 78% of employees report feeling anxious about job security
+2. 65% are concerned about the company's future
+3. 82% want more frequent updates about the situation
+4. 45% are considering looking for new jobs
+
+I recommend we schedule an all-hands meeting to address these concerns directly.
+
+HR Director
+
+--------------BOUNDARY567890123
+Content-Type: text/csv; name="morale_survey_results.csv"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="morale_survey_results.csv"
+
+UXVlc3Rpb24sU3Ryb25nbHkgQWdyZWUsQWdyZWUsTmV1dHJhbCxEaXNhZ3JlZSxTdHJvbmds
+eSBEaXNhZ3JlZQpJIGZlZWwgc2VjdXJlIGluIG15IGpvYiw1JSwyMCUsMTUlLDQwJSwzMCUK
+SSBoYXZlIGNvbmZpZGVuY2UgaW4gdGhlIGNvbXBhbnkncyBmdXR1cmUsMTAlLDI1JSwyMCUs
+MzAlLDE1JQpJIGFtIHNhdGlzZmllZCB3aXRoIHRoZSBjb21wYW55J3MgcmVzcG9uc2UgdG8g
+dGhlIGN5YmVyIGF0dGFjayw1JSwyMCUsMjUlLDMwJSwyMCUKSSBoYXZlIHJlY2VpdmVkIGFk
+ZXF1YXRlIGNvbW11bmljYXRpb24gYWJvdXQgdGhlIHNpdHVhdGlvbiw1JSwyMCUsMTUlLDQw
+JSwyMCUKSSBhbSBjb25zaWRlcmluZyBsb29raW5nIGZvciBhIG5ldyBqb2IsMjUlLDIwJSwx
+NSUsMjUlLDE1JQpJIGZlZWwgdmFsdWVkIGFzIGFuIGVtcGxveWVlLDEwJSwyNSUsMjUlLDI1
+JSwxNSUKSSBiZWxpZXZlIHRoZSBjb21wYW55IHdpbGwgZW1lcmdlIHN0cm9uZ2VyIGZyb20g
+dGhpcyBjcmlzaXMsMTUlLDI1JSwyNSUsMjAlLDE1JQ==
+
+--------------BOUNDARY567890123--
+
+From MAILER-DAEMON Sat Oct 21 18:55:15 1995
+From: legal.team@ellingson.com
+To: hal.benson@ellingson.com
+Subject: RE: Margo Wallace's Involvement
+Date: Sat, 21 Oct 1995 18:55:15 -0400
+Message-ID: <19951021185515.BCDEF3456@ellingson.com>
+
+Hal,
+
+Regarding Margo Wallace's potential involvement in the cyber attack:
+
+1. We've found evidence of unusual communications between her and Eugene Belford in the weeks leading up to the incident.
+2. Her access logs show she viewed sensitive files outside of her normal duties.
+3. There's a discrepancy in her reported whereabouts during the initial attack.
+
+However, we don't have concrete proof of her direct involvement in the attack itself. We need to tread carefully here to avoid potential wrongful termination issues.
+
+I recommend we place her on administrative leave pending a full investigation. We should also secure her work devices and restrict her system access immediately.
+
+Let me know if you want to discuss this further.
+
+Legal Team
+
+From MAILER-DAEMON Sun Oct 22 08:30:20 1995
+From: sarah.chen@ellingson-it.com
+To: hal.benson@ellingson.com
+Subject: Gibson Supercomputer Replacement Options
+Date: Sun, 22 Oct 1995 08:30:20 -0400
+Message-ID: <19951022083020.GHIJK7890@ellingson.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------BOUNDARY678901234"
+
+This is a multi-part message in MIME format.
+--------------BOUNDARY678901234
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Hal,
+
+Given the extent of the damage to the Gibson, we need to consider replacement options. I've compiled a list of potential supercomputer systems that could meet our needs. Please find the attached CSV with details.
+
+Key considerations:
+1. Processing power
+2. Security features
+3. Scalability
+4. Cost
+
+I recommend we schedule a meeting with the board to discuss these options and make a decision quickly. Our operations are severely hampered without the Gibson's capabilities.
+
+Dr. Sarah Chen
+Acting CTO
+
+--------------BOUNDARY678901234
+Content-Type: text/csv; name="supercomputer_options.csv"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="supercomputer_options.csv"
+
+TW9kZWwsUHJvY2Vzc2luZyBQb3dlciAoVEZsb3BzKSxTZWN1cml0eSBGZWF0dXJlcyxTY2Fs
+YWJpbGl0eSxDb3N0ICgkTSkKQ3JheS1YTVA0LDY1LjU0LEFkdmFuY2VkIEVuY3J5cHRpb24s
+SGlnaCwxMjAKSUJNIFJTLzYwMDAsNTguMDIsQmlvbWV0cmljIEF1dGhlbnRpY2F0aW9uLFZl
+cnkgSGlnaCwxNTAKRnVqaXRzdSBWUFAsNDIuMCxNdWx0aS1GYWN0b3IgQXV0aCxNZWRpdW0s
+ODAKSG9uZXl3ZWxsIE5FQy1TWC0zLDIzLjIsRmlyZXdhbGwgSW50ZWdyYXRpb24sTG93LDUw
+CkludGVsIFBhcmFnb24sVG8gYmUgYW5ub3VuY2VkLE5leHQtR2VuIEFJIFNlY3VyaXR5LEV4
+dHJlbWVseSBIaWdoLDIwMA==
+
+--------------BOUNDARY678901234--
+
+From MAILER-DAEMON Sun Oct 22 10:15:45 1995
+From: executive.assistant@ellingson.com
+To: crisis.team@ellingson.com, hal.benson@ellingson.com
+Subject: Lunch Order for Crisis Team
+Date: Sun, 22 Oct 1995 10:15:45 -0400
+Message-ID: <19951022101545.LMNOP1234@ellingson.com>
+
+Hello everyone,
+
+Given that the crisis team has been working around the clock, I'm ordering lunch to be delivered to the conference room at 12:30 PM.
+
+Please reply with your order from Joe's Deli:
+
+1. Turkey Club
+2. Vegetarian Wrap
+3. Roast Beef Sandwich
+4. Greek Salad
+5. Tuna Melt
+
+Let me know if you have any dietary restrictions.
+
+Thank you,
+Executive Assistant
+
+From MAILER-DAEMON Sun Oct 22 11:40:30 1995
+From: investor.relations@ellingson.com
+To: hal.benson@ellingson.com
+Subject: Cyber Attack Impact on Stock Price
+Date: Sun, 22 Oct 1995 11:40:30 -0400
+Message-ID: <19951022114030.QRSTU5678@ellingson.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------BOUNDARY789012345"
+
+This is a multi-part message in MIME format.
+--------------BOUNDARY789012345
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Mr. Benson,
+
+I've prepared an analysis of how the cyber attack has impacted our stock price. The attached CSV file contains the daily closing prices since the attack, along with key events that influenced the market.
+
+Key observations:
+1. We saw an initial 15% drop when news of the attack broke
+2. There was a slight recovery after our first press release
+3. The stock took another hit when rumors of data breach surfaced
+4. We're currently trading at about 22% below pre-attack levels
+
+We need to consider additional investor communications to stabilize the price. I've drafted some talking points for your review.
+
+Investor Relations Team
+
+--------------BOUNDARY789012345
+Content-Type: text/csv; name="stock_price_analysis.csv"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="stock_price_analysis.csv"
+
+RGF0ZSxDbG9zaW5nIFByaWNlICgkKSxDaGFuZ2UgKCUpLEtleSBFdmVudApPY3QtMTksNDIu
+MzAsLSxQcmUtYXR0YWNrIGJhc2VsaW5lCk9jdC0yMCwzNS45NSwtMTUuMDElLE5ld3Mgb2Yg
+Y3liZXIgYXR0YWNrIGJyZWFrcwpPY3QtMjEsMzcuNTAsKzQuMzElLENvbXBhbnkgaXNzdWVz
+IGZpcnN0IHByZXNzIHJlbGVhc2UKT2N0LTIyLDM0LjI1LC04LjY3JSxSdW1vcnMgb2YgZGF0
+YSBicmVhY2ggc3VyZmFjZQpPY3QtMjMsMzMuMDAsLTMuNjUlLENvbXBhbnkgY29uZmlybXMg
+aW52ZXN0aWdhdGlvbiBvbmdvaW5nCk9jdC0yNCwzMi43NSwtMC43NiUsQW5hbHlzdHMgZG93
+bmdyYWRlIHN0b2NrCk9jdC0yNSwzMyLjAwLCswLjc2JSxDRU8gaXNzdWVzIHN0YXRlbWVudCBvbiBjeWJlcnNlY3VyaXR5IG1lYXN1cmVzCk9jdC0yNiwzMy4y
+NSwrMC43NiUsU3BlY3VsYXRpb24gYWJvdXQgcG90ZW50aWFsIGJ1eW91dA==
+
+--------------BOUNDARY789012345--
+
+From MAILER-DAEMON Sun Oct 22 13:20:15 1995
+From: legal.team@ellingson.com
+To: hal.benson@ellingson.com
+Subject: RE: NSA Involvement in Investigation
+Date: Sun, 22 Oct 1995 13:20:15 -0400
+Message-ID: <19951022132015.VWXYZ9012@ellingson.com>
+
+Hal,
+
+Regarding the NSA's request to be involved in our internal investigation:
+
+1. We're not legally obligated to allow their involvement at this stage.
+2. However, given the sophistication of the attack, their expertise could be valuable.
+3. There are concerns about potential classified information they might encounter.
+
+If we do allow their involvement, we should:
+1. Establish clear boundaries for their access
+2. Have our team oversee all their activities
+3. Require them to sign an NDA covering any proprietary information they might encounter
+
+Please advise on how you'd like to proceed. We can draft a formal response once you decide.
+
+Legal Team
+
+From MAILER-DAEMON Sun Oct 22 15:05:30 1995
+From: hal.benson@ellingson.com
+To: hr.director@ellingson.com
+Subject: Crisis Management Team Performance Review
+Date: Sun, 22 Oct 1995 15:05:30 -0400
+Message-ID: <19951022150530.ABCDE3456@ellingson.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------BOUNDARY890123456"
+
+This is a multi-part message in MIME format.
+--------------BOUNDARY890123456
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+[CONFIDENTIAL]
+
+I've been closely observing our crisis management team's performance during this cyber attack situation. I've attached my initial thoughts for your review. We'll need to consider appropriate recognition and potential promotions for those who have gone above and beyond.
+
+On the flip side, we may need to have some difficult conversations with team members who haven't risen to the occasion.
+
+Let's discuss this in person once the immediate crisis has passed.
+
+Hal Benson
+CEO, Ellingson Mineral Company
+
+--------------BOUNDARY890123456
+Content-Type: text/plain; charset=utf-8; name="crisis_team_evaluation.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="crisis_team_evaluation.txt"
+
+Q3Jpc2lzIE1hbmFnZW1lbnQgVGVhbSBQZXJmb3JtYW5jZSBSZXZpZXcKQ09ORklERU5USUFM
+CgoxLiBEci4gU2FyYWggQ2hlbiAoQWN0aW5nIENUTyk6CiAgLSBFeGNlcHRpb25hbCB0ZWNo
+bmljYWwgbGVhZGVyc2hpcAogIC0gUXVpY2sgdGhpbmtpbmcgaW4gaXNvbGF0aW5nIHRoZSBH
+aWJzb24KICAtIENsZWFyIGNvbW11bmljYXRpb24gb2YgdGVjaG5pY2FsIGlzc3VlcyB0byBu
+b24tdGVjaG5pY2FsIHN0YWZmCiAgLSBDb25zaWRlciBmb3IgcGVybWFuZW50IENUT3BRyZXNz
+IHJlbGVhc2VzCiAgLSBFZmZlY3RpdmUgbWVkaWEgaGFuZGxpbmcKICAtIE5lZWQgdG8gaW1w
+cm92ZSBpbnRlcm5hbCBjb21tdW5pY2F0aW9uIHdpdGggZW1wbG95ZWVzCgozLiBSaWNoYXJk
+IEdpbGwgKExlZ2FsIFRlYW0gTGVhZCk6CiAgLSBTdHJvbmcgaGFuZGxpbmcgb2YgcG90ZW50
+aWFsIGxlZ2FsIGlzc3VlcwogIC0gUXVpY2sgZHJhZnRpbmcgb2YgbmVjZXNzYXJ5IGxlZ2Fs
+IGRvY3VtZW50cwogIC0gRWZmZWN0aXZlIGxpYWlzb24gd2l0aCBsYXcgZW5mb3JjZW1lbnQK
+ICAtIE5lZWQgdG8gd29yayBvbiBtb3JlIHByb2FjdGl2ZSByaXNrIG1hbmFnZW1lbnQKCjQu
+IE1hcmsgTGxld2VsbHluIChDRk8pOgogIC0gUXVpY2sgYXNzZXNzbWVudCBvZiBmaW5hbmNp
+YWwgaW1wYWN0CiAgLSBFZmZlY3RpdmUgbWFuYWdlbWVudCBvZiBpbnZlc3RvciByZWxhdGlv
+bnMKICAtIENyZWF0aXZlIHNvbHV0aW9ucyBmb3IgZW1lcmdlbmN5IGZ1bmRpbmcKICAtIE5l
+ZWQgdG8gaW1wcm92ZSBsb25nLXRlcm0gZmluYW5jaWFsIHBsYW5uaW5nIGZvciBjcmlzaXMg
+c2NlbmFyaW9zCgo1LiBKYW5ldCBNb25yb2UgKEhSIERpcmVjdG9yKToKICAtIEVmZmVjdGl2
+ZSBtYW5hZ2VtZW50IG9mIGVtcGxveWVlIGNvbmNlcm5zCiAgLSBRdWljayBvcmdhbml6YXRp
+b24gb2YgY3Jpc2lzIHN1cHBvcnQgcmVzb3VyY2VzCiAgLSBOZWVkIHRvIGltcHJvdmUgb24g
+cmFwaWQgc3RhZmZpbmcgc29sdXRpb25zIGZvciBjcmlzaXMgc2l0dWF0aW9ucwoKT3ZlcmFs
+bCwgdGhlIHRlYW0gaGFzIHBlcmZvcm1lZCBhZG1pcmFibHkgdW5kZXIgZXh0cmVtZSBwcmVz
+c3VyZS4gV2Ugc2hvdWxkIGNvbnNpZGVyIHRoaXMgZXhwZXJpZW5jZSB3aGVuIHBsYW5uaW5n
+IGZ1dHVyZSBwcm9tb3Rpb25zIGFuZCByZW9yZ2FuaXphdGlvbnMu
+
+--------------BOUNDARY890123456--
+
+From MAILER-DAEMON Sun Oct 22 16:45:20 1995
+From: susan.benson@familymail.com
+To: hal.benson@ellingson.com
+Subject: Personal: Family Vacation Plans
+Date: Sun, 22 Oct 1995 16:45:20 -0400
+Message-ID: <19951022164520.FGHIJ7890@familymail.com>
+
+Hal,
+
+I know you're swamped with work right now, but I wanted to remind you about our family vacation plans. We're supposed to leave for Hawaii in two weeks. Should we postpone given everything that's going on with Ellingson?
+
+The kids are really looking forward to it, but I understand if we need to change our plans. Let me know what you think when you have a moment.
+
+Love,
+Susan
+
+P.S. Don't forget to eat something other than coffee and donuts. I worry about you when you're stressed like this.
+
+

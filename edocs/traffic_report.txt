@@ -1,0 +1,87 @@
+ELLINGSON MINERAL COMPANY
+NETWORK TRAFFIC ANALYSIS REPORT
+
+Date: August 24, 1995
+Prepared by: Sarah Chen, IT Security Specialist
+Classification: CONFIDENTIAL
+
+===========================================================
+
+1. EXECUTIVE SUMMARY:
+
+This report details suspicious network activities observed on the Ellingson Mineral Company's internal network between August 15 and August 23, 1995. The analysis reveals patterns consistent with data exfiltration, unauthorized access to the Gibson supercomputer, and potential malware communication.
+
+2. METHODOLOGY:
+
+Network traffic logs were collected from the main gateway router and the Gibson's dedicated firewall. Analysis was performed using EtherPeek 2.0 and custom Python scripts.
+
+3. KEY FINDINGS:
+
+3.1 Unusual Data Transfers:
+	- Large data transfers (1.7GB - 2.3GB) to external IP 10.0.0.99
+	- Transfers occurred during non-business hours (primarily 2 AM - 4 AM)
+	- Data was encrypted, unable to determine content
+
+3.2 Gibson Supercomputer Access:
+	- Multiple failed login attempts from internal IP 192.168.1.105
+	- Successful logins from SYSADMIN account at unusual hours
+	- Excessive CPU utilization during these sessions
+
+3.3 Suspicious File Activities:
+	- Creation and deletion of large files in /tmp/garbage directory
+	- File names include "payload.dat", "datadump_081795.bin", "worm.exe"
+
+3.4 Potential Malware Communication:
+	- Periodic beacons to IP 13.37.13.37 every 15 minutes
+	- Small encrypted packets, consistent with command and control traffic
+
+3.5 Oil Tanker Route Modifications:
+	- Subtle changes in network traffic to/from tanker fleet communication systems
+	- Modifications align with times of suspicious Gibson access
+
+4. DETAILED TRAFFIC ANALYSIS:
+
+4.1 Top Talkers (External IPs):
+	1. 10.0.0.99     - 78% of unusual outbound traffic
+	2. 13.37.13.37   - 15% of unusual outbound traffic
+	3. 192.168.1.105 - 5% of unusual internal traffic to Gibson
+
+4.2 Protocol Analysis:
+	- 85% encrypted data (non-standard encryption)
+	- 10% HTTP (port 80)
+	- 5% SSH (port 22)
+
+4.3 Temporal Patterns:
+	[ASCII graph showing spikes in network activity]
+	*                                            *
+	*                *                   *       *
+	*     *          *         *         *       *
+	*     *    *     *         *    *    *       *
+	*  *  *    *  *  *    *    *    *    *    *  *
+	12 1 2 3 4 5 6 7 8 9 10 11 12 1 2 3 4 5 6 7 8 9 10 11
+	|           AM            |           PM            |
+
+5. CONCLUSIONS:
+
+The observed network patterns strongly suggest malicious activity, including:
+	a) Unauthorized access to the Gibson supercomputer
+	b) Exfiltration of sensitive data
+	c) Possible deployment of malware
+	d) Tampering with oil tanker routing systems
+
+6. RECOMMENDATIONS:
+
+1. Immediately revoke all administrative access to the Gibson
+2. Conduct a full security audit of all systems
+3. Block all communication to suspicious IPs (10.0.0.99, 13.37.13.37)
+4. Investigate the activities of user associated with IP 192.168.1.105
+5. Implement 24/7 monitoring of Gibson access and network traffic
+6. Consider engaging external cybersecurity firm for deeper forensic analysis
+
+===========================================================
+
+APPENDIX A: Raw Log Samples
+APPENDIX B: Python Script Used for Analysis
+APPENDIX C: Full List of Suspicious IP Addresses
+
+[END OF REPORT]

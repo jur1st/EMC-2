@@ -1,0 +1,45 @@
+===== Ellingson Secure Messaging System Log =====
+Date: August 24, 1995
+Time: 10:15 AM - 10:45 AM
+Users: EUGENE.B (Eugene Belford), MARGO.W (Margo Wallace)
+Classification: CONFIDENTIAL
+
+EUGENE.B: Margo, we need to talk. Now.
+MARGO.W: I'm in a meeting. What's so urgent?
+EUGENE.B: The walls are closing in. Chen's report landed on Hal's desk this morning.
+MARGO.W: Oh god. How bad is it?
+EUGENE.B: Bad enough. She's pieced together most of the network activity.
+MARGO.W: Can you delete it?
+EUGENE.B: Too late. It's been distributed to the whole executive team.
+MARGO.W: So what do we do now?
+EUGENE.B: We accelerate the plan. Tonight.
+MARGO.W: Tonight?! That's too soon!
+EUGENE.B: It's our only choice. I'm initiating the Da Vinci virus at midnight.
+MARGO.W: What about the oil tankers?
+EUGENE.B: Already taken care of. The algorithm is in place. By morning, we'll have our "accidental" oil spill.
+MARGO.W: And the money?
+EUGENE.B: $25 million will be transferred to our offshore account the moment the markets react.
+MARGO.W: What if something goes wrong?
+EUGENE.B: That's why I have you, my dear. You're my insurance policy.
+MARGO.W: What's that supposed to mean?
+EUGENE.B: It means if I go down, you're coming with me. We're in this together, remember?
+MARGO.W: You bastard. You promised me I'd be protected.
+EUGENE.B: And you will be. As long as everything goes according to plan.
+MARGO.W: Fine. What do you need me to do?
+EUGENE.B: Keep Hal and the board distracted. Call an emergency meeting for 11 PM. 
+MARGO.W: What reason should I give?
+EUGENE.B: I don't care. Make something up. A potential hostile takeover. Anything.
+MARGO.W: Okay. And after that?
+EUGENE.B: Meet me in the server room at 11:45. We'll initiate the final sequence together.
+MARGO.W: God, I can't believe we're really doing this.
+EUGENE.B: Having second thoughts?
+MARGO.W: No. It's just... never mind. I'll see you at 11:45.
+EUGENE.B: Good girl. Oh, and Margo?
+MARGO.W: Yeah?
+EUGENE.B: Wear something nice. We'll be rich by morning. Might as well celebrate in style.
+MARGO.W: You're incorrigible.
+EUGENE.B: That's why you love me. See you tonight. Don't be late.
+MARGO.W: I won't. Good luck, Eugene.
+EUGENE.B: Luck is for amateurs. We've got the Gibson.
+
+===== End of Log =====

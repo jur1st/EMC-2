@@ -1,0 +1,46 @@
+ELLINGSON MINERAL COMPANY
+INTERNAL MESSAGING SYSTEM LOGS
+DATE: September 20, 1995
+TIME: 10:23 AM - 11:17 AM EDT
+
+--- Begin Log ---
+
+[10:23] TechGuy92: Hey, anyone else having trouble accessing the new security protocols?
+[10:24] DataDiva: Yep. Whole system's running like molasses. IT's been swamped since The Plague incident.
+[10:24] TechGuy92: Can we still call it that? Thought HR said to refer to it as "the recent unfortunate event."
+[10:25] DataDiva: Please. Everyone knows what happened. My cousin saw it on Hard Copy!
+[10:26] NewGuy95: Wait, what are we talking about? What plague?
+[10:27] DataDiva: Oh honey. You picked a hell of a time to join Ellingson. Long story short: our head of security tried to hack the planet.
+[10:28] TechGuy92: And almost succeeded. I heard he's hiding out on some tropical island.
+[10:29] NewGuy95: You're kidding, right? This sounds like a movie plot.
+[10:30] DataDiva: If only. Hey, you guys hear about Margo from Operations?
+[10:30] TechGuy92: No, what about her?
+[10:31] DataDiva: Word is she was in on it with The Plague. FBI took her in last week.
+[10:32] TechGuy92: No way! Margo always seemed so... straight-laced.
+[10:33] DataDiva: Appearances can be deceiving. Like that group of teenage hackers who supposedly helped catch The Plague.
+[10:34] NewGuy95: Teenage hackers? Okay, now I know you're messing with me.
+[10:35] TechGuy92: Nope, that part's true. Saw them on the news. One kid had a crazy haircut, looked like he stuck his finger in an electrical socket.
+[10:36] DataDiva: That's the one! "Cereal Killer" or something like that.
+[10:37] NewGuy95: You're all pulling my leg. This can't be real.
+[10:38] SysAdmin: Alright, break it up. Back to work, people. And remember, all of this is confidential. No discussing company matters outside of Ellingson.
+[10:39] TechGuy92: Sorry, boss. Any ETA on when the systems will be back to normal?
+[10:40] SysAdmin: We're working on it. The FBI is still combing through everything. Could be weeks before we're back to 100%.
+[10:41] DataDiva: Weeks?! How are we supposed to get any work done?
+[10:42] SysAdmin: Creatively. And without complaining. Unless you'd like to explain to Accounting why your productivity is down?
+[10:43] DataDiva: ...Point taken.
+[10:44] NewGuy95: So, uh, about those new security protocols...
+[10:45] SysAdmin: *sigh* I'll send out an email with updated instructions. Just... try not to break anything in the meantime.
+[10:46] TechGuy92: No promises!
+[10:47] SysAdmin: That wasn't a joke, TechGuy92.
+[10:48] TechGuy92: Right. Sorry. All serious, all the time. Got it.
+[10:49] SysAdmin: Good. Now, does anyone have any actual work-related questions?
+[10:50] NewGuy95: Is it true the vending machine on floor 3 gives out free sodas if you hack it?
+[10:51] SysAdmin: ...I'm ending this conversation now.
+
+[SysAdmin has left the chat]
+
+[11:15] DataDiva: But seriously, about that vending machine...
+[11:16] TechGuy92: I'll show you after lunch. Bring a quarter and a paper clip.
+[11:17] NewGuy95: I think I'm going to like it here.
+
+--- End Log ---
