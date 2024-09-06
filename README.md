@@ -77,7 +77,6 @@ The dataset was implemented using a combination of human creativity and AI assis
 
 This hybrid approach allowed us to create a dataset that combines the creativity and nuance of human-generated content with the scale and consistency made possible by AI.
 
-This hybrid approach allowed us to create a dataset that combines the creativity and nuance of human-generated content with the scale and consistency made possible by AI.
 
 ## Dataset Contents
 
