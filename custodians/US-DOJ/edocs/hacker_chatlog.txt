@@ -1,0 +1,87 @@
+HACK THE PLANET BBS - SECURE CHAT LOG
+Date: October 18, 1995
+Time: 22:15 - 23:47 EDT
+Channel: #ellingson_fallout
+Participants: ZeroCool, AcidBurn, CerealKiller, PhantomPhreak, LordNikon, TheP1ague
+
+--- Begin Log ---
+
+[22:15] * ZeroCool has joined #ellingson_fallout
+[22:16] * AcidBurn has joined #ellingson_fallout
+[22:16] * CerealKiller has joined #ellingson_fallout
+[22:17] * PhantomPhreak has joined #ellingson_fallout
+[22:18] * LordNikon has joined #ellingson_fallout
+
+[22:18] ZeroCool: Everyone here? Coast clear?
+[22:19] AcidBurn: Clear on my end. Using that new proxy you set up, Crash.
+[22:19] PhantomPhreak: Same. Let's make this quick. My mom thinks I'm doing homework.
+[22:20] CerealKiller: Guys, I think my Froot Loops are watching me. They keep spelling out "The NSA is listening."
+[22:20] LordNikon: Focus, Cereal. This is serious.
+
+[22:21] ZeroCool: Right. So, what's the latest? Acid, how'd it go with that reporter?
+[22:22] AcidBurn: Mixed results. She's interested, but scared. Says we need more concrete evidence.
+[22:23] PhantomPhreak: What about the bank statements? Those seemed pretty damning.
+[22:24] AcidBurn: She wants something that directly links Belford to the Da Vinci virus.
+[22:25] LordNikon: Tough ask. The Plague isn't sloppy.
+
+[22:26] ZeroCool: Maybe not, but everyone makes mistakes. We just need to find his.
+[22:27] CerealKiller: What if we hack the Gibson again? There's gotta be something left there.
+[22:28] AcidBurn: Too risky. Place is crawling with feds now.
+[22:29] PhantomPhreak: What about Margo? She's gotta know something.
+
+[22:30] ZeroCool: Actually, I might have a lead there. Remember that voicemail jur1st told us about?
+[22:31] AcidBurn: The one from The Plague to Margo? What about it?
+[22:32] ZeroCool: It mentioned something about a "blue rabbit's foot" with login credentials.
+[22:33] LordNikon: I remember seeing Margo with a blue rabbit's foot keychain at Ellingson.
+[22:34] PhantomPhreak: No way. You think it's still there?
+
+[22:35] ZeroCool: Worth a shot. If we can get those creds, we might be able to find the smoking gun.
+[22:36] AcidBurn: It's a long shot, but it's the best lead we've got.
+[22:37] CerealKiller: So, what's the plan? We just waltz into Ellingson and ask to borrow Margo's keychain?
+[22:38] ZeroCool: Not exactly. I've got an idea, but it's gonna take all of us.
+
+[22:39] * TheP1ague has joined #ellingson_fallout
+[22:40] TheP1ague: Well, well, well. What do we have here? A reunion of the Scooby Gang?
+[22:41] ZeroCool: How the hell did you get in here?
+[22:42] TheP1ague: Please. You think your little proxy can keep me out? I wrote the book on hacking, kid.
+[22:43] AcidBurn: What do you want, Belford?
+[22:44] TheP1ague: Want? I'm just here to enjoy the show. It's cute watching you kids play detective.
+
+[22:45] PhantomPhreak: We're not playing. We know what you did.
+[22:46] TheP1ague: You don't know anything. You're just scratching the surface of a game you can't even comprehend.
+[22:47] ZeroCool: Then enlighten us. Why'd you do it? Why crash the Gibson?
+[22:48] TheP1ague: Crash it? Oh, Zero Cool. I didn't crash it. I set it free.
+
+[22:49] LordNikon: What's that supposed to mean?
+[22:50] TheP1ague: It means the Da Vinci virus was just the beginning. The real show? It's about to start.
+[22:51] AcidBurn: What are you talking about?
+[22:52] TheP1ague: Let's just say, the NSA isn't the only one interested in my little creation.
+
+[22:53] ZeroCool: You're bluffing. You're just trying to scare us.
+[22:54] TheP1ague: Am I? Check the news in about... oh, 3 hours. You might find it illuminating.
+[22:55] TheP1ague: Oh, and kids? Stay out of things you don't understand. It's dangerous out there.
+
+[22:56] * TheP1ague has left #ellingson_fallout
+
+[22:57] CerealKiller: Okay, that was creepy. Even for The Plague.
+[22:58] ZeroCool: He's just trying to rattle us. Don't let him get in your head.
+[22:59] AcidBurn: I don't know, Crash. He seemed pretty confident.
+[23:00] PhantomPhreak: What if he's not bluffing? What if something big is about to go down?
+
+[23:01] ZeroCool: Then we need to move fast. Here's the plan...
+
+[The next 45 minutes contain detailed discussion of a plan to infiltrate Ellingson and retrieve the blue rabbit's foot keychain.]
+
+[23:46] ZeroCool: Everyone clear on their roles?
+[23:46] AcidBurn: Crystal.
+[23:46] PhantomPhreak: Ready to rock.
+[23:47] CerealKiller: Let's do this. For great justice!
+[23:47] LordNikon: And may God have mercy on our souls.
+
+[23:47] * ZeroCool has left #ellingson_fallout
+[23:47] * AcidBurn has left #ellingson_fallout
+[23:47] * PhantomPhreak has left #ellingson_fallout
+[23:47] * CerealKiller has left #ellingson_fallout
+[23:47] * LordNikon has left #ellingson_fallout
+
+--- End Log ---

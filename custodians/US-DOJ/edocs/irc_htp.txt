@@ -1,0 +1,72 @@
+IRC LOG: #HackThePlanet
+Date: September 5, 1995
+Time: 23:15 - 00:30 EDT
+Participants: ZeroCool, AcidBurn, Phantom_Phreak, CerealKiller, LordNikon
+
+--- Begin Log ---
+
+[23:15] * ZeroCool has joined #HackThePlanet
+[23:16] * AcidBurn has joined #HackThePlanet
+[23:16] * Phantom_Phreak has joined #HackThePlanet
+[23:17] * CerealKiller has joined #HackThePlanet
+[23:18] * LordNikon has joined #HackThePlanet
+
+[23:18] ZeroCool: Everyone here? Coast clear?
+[23:18] AcidBurn: Clear on my end. Using that new proxy you set up, Crash.
+[23:19] Phantom_Phreak: Same. This better be good, my mom's getting suspicious of all these late nights.
+[23:19] CerealKiller: Guys, I think my Fruit Loops are sentient. They keep spelling out "HACK THE PLANET" in my bowl.
+[23:20] LordNikon: Focus, Cereal. Zero, what's the plan?
+
+[23:21] ZeroCool: Right, here's the deal. The Plague framed us good, but I think I found a way to prove our innocence.
+[23:21] AcidBurn: We're listening...
+[23:22] ZeroCool: I managed to trace some of the Da Vinci virus code. It's got The Plague's fingerprints all over it.
+[23:22] Phantom_Phreak: How'd you manage that? Thought the feds locked everything down tight.
+[23:23] ZeroCool: Let's just say I had some help from a "resourceful" friend. *cough* jur1st *cough*
+[23:23] LordNikon: Your lawyer? Man, he's more twisted than we are.
+[23:24] AcidBurn: Focus, guys. Zero, what's the next move?
+
+[23:25] ZeroCool: We need to get that code to the feds, but in a way that doesn't implicate us in more hacking.
+[23:26] CerealKiller: Ooh, I know! We could print it out and make a paper airplane, fly it right into the FBI office!
+[23:26] Phantom_Phreak: ...sometimes I worry about you, Cereal.
+[23:27] AcidBurn: What if we anonymous-tip it to that reporter who's been covering the story? Jennifer Mack?
+[23:28] LordNikon: Not bad, Burn. We could use a public terminal, maybe from the library?
+[23:29] ZeroCool: Good thinking. But we need more than just the code. We need proof The Plague is still out there.
+
+[23:30] Phantom_Phreak: I might have something. Been monitoring some weird traffic, reminds me of The Plague's style.
+[23:31] ZeroCool: Where?
+[23:32] Phantom_Phreak: You're gonna love this. It's coming from a small island in the South Pacific.
+[23:32] AcidBurn: Let me guess, lots of pina coladas and little umbrellas?
+[23:33] Phantom_Phreak: Bingo. Looks like someone's living it up on an ill-gotten fortune.
+[23:34] LordNikon: So what's the play? We can't exactly hop on a plane to the tropics.
+[23:35] ZeroCool: No, but we can follow the money. Phreak, can you trace the transactions?
+[23:36] Phantom_Phreak: Give me 48 hours and a case of Jolt Cola. I'm on it.
+
+[23:37] AcidBurn: Okay, so we've got a lead on The Plague and evidence of his code. What about Margo?
+[23:38] ZeroCool: I've been thinking about that. Remember how she always had that weird rabbit's foot keychain?
+[23:39] CerealKiller: Yeah, it was creepy. Like, was it a real rabbit foot? Do rabbits have lucky feet? Are rabbits lucky?
+[23:40] LordNikon: Cereal, I swear...
+[23:41] ZeroCool: Focus! That keychain had a USB drive hidden in it. If we can find it, bet it's got all the dirt we need.
+[23:42] AcidBurn: Smart thinking, Crash. But where would she have stashed it?
+[23:43] ZeroCool: My money's on her gym locker at Ellingson. Old habits die hard, right?
+
+[23:44] Phantom_Phreak: So, let me get this straight. We need to:
+[23:44] Phantom_Phreak: 1. Trace The Plague's tropical transactions
+[23:45] Phantom_Phreak: 2. Sneak into Ellingson to find Margo's USB
+[23:45] Phantom_Phreak: 3. Compile all the evidence
+[23:46] Phantom_Phreak: 4. Anonymously tip off a reporter
+[23:46] Phantom_Phreak: All without getting caught by the feds who are watching our every move?
+[23:47] ZeroCool: Pretty much, yeah.
+[23:47] AcidBurn: Sounds like a normal Tuesday to me.
+[23:48] CerealKiller: Hack the planet?
+[23:48] LordNikon: Hack the planet.
+[23:49] Phantom_Phreak: Hack the planet!
+[23:49] AcidBurn: Hack the planet!
+[23:50] ZeroCool: HACK THE PLANET!
+
+[00:30] * ZeroCool has quit (Reason: Mom says it's bedtime)
+[00:30] * AcidBurn has quit (Reason: Gotta crash)
+[00:30] * Phantom_Phreak has quit (Reason: Jolt Cola run)
+[00:30] * LordNikon has quit (Reason: Memory full, gotta defrag)
+[00:30] * CerealKiller has quit (Reason: Fruit Loops are spelling out 'GOODNIGHT')
+
+--- End Log ---

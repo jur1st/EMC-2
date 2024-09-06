@@ -1,0 +1,17 @@
+Date,Description,Category,Amount,Notes
+05/03/1995,"Dell OptiPlex XMT 590",Hardware,3245.99,"For testing security protocols"
+05/10/1995,"International Cryptography Conference",Conference,1500.00,"San Francisco, CA"
+05/11/1995,"The Fairmont San Francisco",Accommodation,379.00,"1 night"
+05/12/1995,"The Art of Computer Programming by D. Knuth",Books,59.99,
+05/20/1995,"Secure Data Systems Ltd.",Consulting,5000.00,"External security audit"
+06/02/1995,"IBM ThinkPad 755CD",Hardware,5999.99,"Mobile security testing"
+06/15/1995,"Applied Cryptography by B. Schneier",Books,59.99,
+06/28/1995,"Cayman Islands Research Trip",Travel,3245.00,"Investigating offshore data centers"
+07/01/1995,"Offshore Datacenters Inc.",Consulting,10000.00,"Feasibility study for data backup"
+07/15/1995,"Custom High-Capacity HDDs",Hardware,8999.99,"For expanded data storage"
+07/22/1995,"VPN Software Licenses (x10)",Software,2499.90,"Enhanced remote access security"
+08/01/1995,"Advanced Encryption Seminar",Training,2500.00,"Washington D.C."
+08/02/1995,"The Watergate Hotel",Accommodation,450.00,"1 night"
+08/05/1995,"Hacking: The Art of Exploitation by J. Erickson",Books,49.99,
+08/10/1995,"Secure Telecom Systems",Hardware,7999.99,"Encrypted communication devices"
+08/15/1995,"Misc. Office Supplies",Office Supplies,1337.00,"Special order - various items"
