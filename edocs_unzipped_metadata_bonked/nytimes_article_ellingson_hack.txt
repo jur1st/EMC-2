@@ -1,0 +1,34 @@
+THE NEW YORK TIMES
+Late Edition - Final
+October 24, 1995
+
+MASSIVE CYBER ATTACK CRIPPLES GLOBAL FINANCIAL MARKETS
+
+By Jennifer Mack
+Technology Correspondent
+
+In a shocking turn of events that has sent shockwaves through the global financial community, major stock exchanges worldwide have been brought to a standstill by what experts are calling the most sophisticated cyber attack in history.
+
+The attack, which began at approximately 2:00 AM Eastern Time, has affected the New York Stock Exchange, London Stock Exchange, Tokyo Stock Exchange, and several others. Trading has been suspended indefinitely as authorities scramble to contain the damage and trace the source of the attack.
+
+Early reports suggest that the attack bears striking similarities to the recent Ellingson Mineral Company hack, leading some experts to speculate that the two incidents may be connected.
+
+"The level of complexity we're seeing here is unprecedented," said Dr. Sarah Chen, former head of cybersecurity at Ellingson and now an independent consultant. "This attack shows all the hallmarks of the Da Vinci virus, but on a much larger scale."
+
+The Da Vinci virus, which was at the center of the Ellingson hack, was thought to have been contained. However, this new attack suggests that it may have evolved or been repurposed for a more ambitious target.
+
+Sources close to the investigation, speaking on condition of anonymity, have indicated that the attack seems to be exploiting vulnerabilities in the SWIFT international banking system, potentially compromising trillions of dollars in international transactions.
+
+The Department of Defense has raised the cyber threat level to DEFCON 2, the highest it's been since the Cuban Missile Crisis. The NSA and FBI have mobilized joint task forces to combat the threat, with international agencies like Interpol and Europol joining the effort.
+
+Amidst the chaos, questions are being raised about the possible involvement of Eugene Belford, also known as "The Plague," the former Ellingson employee suspected of being behind the original Da Vinci virus. Belford remains at large, with some speculating that this attack could be his "magnum opus."
+
+Adding another layer of intrigue to the situation, a group of young hackers who were initially implicated in the Ellingson hack have reportedly been trying to clear their names by providing information about Belford to authorities. Their role in this new attack, if any, remains unclear.
+
+As the situation continues to unfold, the economic implications are becoming increasingly dire. With major financial markets paralyzed, economists are warning of potential global recession if the attack is not resolved quickly.
+
+White House Press Secretary Mike McCurry announced that President Clinton will address the nation at 9:00 PM Eastern Time to discuss the government's response to this unprecedented crisis.
+
+This is a developing story. Check nytimes.com for updates.
+
+(For a detailed timeline of events leading up to this attack, including the Ellingson hack, see page B1)

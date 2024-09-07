@@ -1,0 +1,66 @@
+--- Begin Chat Log ---
+HACK THE PLANET BBS - SECURE CHAT LOG
+Date: October 21, 1995
+Time: 18:00 - 19:15 EDT
+Channel: #theresapoolontheeroof
+Participants: ZeroCool, AcidBurn, CerealKiller, PhantomPhreak, LordNikon
+
+[18:00] ZeroCool: Alright, everyone here? We need to finalize the plan for tonight.
+
+[18:01] AcidBurn: Here. I've got the station's security schedule and access codes.
+
+[18:02] PhantomPhreak: Present. Network map is ready. I can disable their firewall for a 3-minute window.
+
+[18:03] LordNikon: Ready. I've memorized the building layout. I can guide you through once you're inside.
+
+[18:04] CerealKiller: I'm here! I've got the snacks for our victory party!
+
+[18:05] ZeroCool: Focus, Cereal. Okay, let's go over the plan one last time.
+
+[18:06] AcidBurn: I'll enter through the back door at 22:30. Zero, you're with me. Phreak, you'll be in the van, handling remote access.
+
+[18:07] ZeroCool: Right. Nikon, you'll be our eyes outside. Cereal, you're on distraction duty if needed.
+
+[18:08] CerealKiller: Can my distraction involve a pizza delivery?
+
+[18:09] AcidBurn: No, Cereal. Just stick to the plan.
+
+[18:10] ZeroCool: Once inside, we'll have 15 minutes to reach the broadcast room, insert our video, and get out. Questions?
+
+[18:11] PhantomPhreak: What if something goes wrong? We need a way to communicate quickly.
+
+[18:12] AcidBurn: Got that covered. I snagged us some pagers. Untraceable, on a secure network.
+
+[18:13] ZeroCool: Nice work, Acid. Those are for emergencies only, got it? We can't risk unnecessary communication.
+
+[18:14] CerealKiller: Pagers? Sweet! Can I use mine to order pizza?
+
+[18:15] AcidBurn: No, Cereal! Emergency use only.
+
+[18:16] ZeroCool: I mean it, guys. These are a last resort. Don't use them unless absolutely necessary.
+
+[18:17] LordNikon: What are the emergency codes?
+
+[18:18] AcidBurn: "Gibson" means abort mission. "Plague" means we've been spotted. "Jolt" means success.
+
+[18:19] CerealKiller: Can I add "Pepperoni" as a code for...
+
+[18:20] ZeroCool: No, Cereal! Focus!
+
+[18:21] PhantomPhreak: What's our exit strategy?
+
+[18:22] ZeroCool: Once the video is playing, we have 3 minutes to get out. Meet at the rendezvous point - the arcade.
+
+[18:23] AcidBurn: Remember, if we pull this off, we expose The Plague and clear our names.
+
+[18:24] LordNikon: And if we don't?
+
+[18:25] ZeroCool: Let's not think about that. We can do this.
+
+[18:26] CerealKiller: Hack the planet?
+
+[18:27] ZeroCool: Hack the planet. Everyone get ready. We move in 4 hours.
+
+[18:28] AcidBurn: Good luck, everyone. See you on the other side.
+
+--- End Chat Log ---

@@ -63,7 +63,8 @@ There are references and easter eggs that were intentional and unintentional. Th
 
 - This is a small set of documents (at this point), so it's probably not suited for much extrapolation of a predictive model at scale. If it is, someone's welcome to correct me, but making something that is statistically defensible is not the intention.
 - The types of native files currently are limited to plain text, though that also remains the current state of the art for most legal-specific tools I've taken a look at so far.
-- Metadata for CSV and TXT documents presently have no time metadata, which impacts the set's ability to sort chronologically within days.
+- Some systems don't like it when C code is extracted from a zip file. 
+- If you parse all of the data in the custodian folder the timeline should be accurate, though beware of the dreaded .DS_Store file to ruin the hand crafted timeline. 
 - While this got seeded with things from the movie, this is not and isn't intended to be some kind of detailed stand-in. We get broad arcs, main characters, motivations, that kind of thing.
 
 ## Technical Details
@@ -74,6 +75,8 @@ The dataset was implemented using a combination of human creativity and AI assis
 - AI models were used to expand on these outlines, generating consistent and varied content.
 - Human review and editing ensured quality, coherence, and adherence to the storyline.
 - Technical details (e.g., code snippets, log files) were double-checked for accuracy along the way.
+- After the initial commits were made I took a pass at ensuring that everything maintained a consistent timeline. The number of changes I had to make is fairly impressive and can be seen in the commit history...you all know how to look at that thing more than I do. 
+- Loose files are included twice, however the folder containing them loose will process with the dates that you clone the repo. Inside the US_DOJ custodian folder is a zip file containing zip files which carry dates within the data set's timeline. That's right, you don't even need an overlay for the text files to sort properly. 
 
 This hybrid approach allowed us to create a dataset that combines the creativity and nuance of human-generated content with the scale and consistency made possible by AI.
 
@@ -143,41 +146,71 @@ Each email includes standard metadata fields and is known to thread properly:
 ### Contents
 
 ```
-EMC-2/
-├── LICENSE.txt
-├── README.txt
-├── edocs
-│   ├── Da_Vinci_virus_analys.txt
-│   ├── budget.csv
-│   ├── da_vinci_vir_core.c.txt
-│   ├── diff.txt
-│   ├── gibson_security_patch.txt
-│   ├── hacker_chatlog.txt
-│   ├── irc_htp.txt
-│   ├── memo_10101995.txt
-│   ├── nytimes_article_ellingson_hack.txt
-│   ├── plague_voicemail_transcript.txt
-│   ├── talk_log.txt
-│   ├── talk_log2.txt
-│   ├── traffic_report.txt
-│   ├── ts_phone_log.txt
-│   ├── virus_rpt_cyber.txt
-│   └── vm_0827.txt
-└── email
-	├── DOJ_EmailFile.mbox
-	├── dmurphy.mbox
-	├── ebelford.mbox
-	├── hbenson.mbox
-	├── jmack.mbox
-	├── jur1st.mbox
-	├── klibby.mbox
-	├── mwallace.mbox
-	├── rgill.mbox
-	└── schen.mbox
+.
+├── CITATION.MD
+├── Custodians
+│   ├── Belford, Eugene
+│   │   └── ebelford.mbox
+│   ├── Benson, Hal
+│   │   └── hbenson.mbox
+│   ├── Chen, Sarah
+│   │   └── schen.mbox
+│   ├── Gill, Richard
+│   │   └── rgill.mbox
+│   ├── Libby, Kate
+│   │   └── klibby.mbox
+│   ├── Mack, Jennifer
+│   │   └── jmack.mbox
+│   ├── Murphy, Dade
+│   │   └── dmurphy.mbox
+│   ├── Rivera, Alex
+│   │   └── Rivera, Alex.mbox
+│   ├── US-DOJ
+│   │   ├── DOJ_EmailFile.mbox
+│   │   └── edocs.zip
+│   ├── Wallace, Margo
+│   │   └── mwallace.mbox
+│   └── jur1st
+│       └── jur1st.mbox
+├── LICENSE.md
+├── README.md
+└── edocs_unzipped_metadata_bonked
+	├── Da_Vinci_virus_analys.txt
+	├── HCaul_Cover_Letter.txt
+	├── HCaul_skytel_19951022.csv
+	├── HCaul_skytel_19951022.txt
+	├── budget.csv
+	├── da_vinci_vir_core.c.txt
+	├── da_vinci_virus_core.c.txt
+	├── diff.txt
+	├── gibson_security_patch.txt
+	├── hacker_chatlog.txt
+	├── irc_htp.txt
+	├── irc_htp2.txt
+	├── memo_10101995.txt
+	├── nytimes_article_ellingson_hack.txt
+	├── plague_voicemail_transcript.txt
+	├── talk_log.txt
+	├── talk_log2.txt
+	├── traffic_report.txt
+	├── ts_phone_log.txt
+	├── virus_rpt_cyber.txt
+	└── vm_0827.txt
 
-3 directories, 28 files
+14 directories, 36 files
+
 
 ```
+
+## Changes
+
+2024-09-06 - Post release changes in advance of the Stanford Hackathon
+- Added some additional short messaging data that should parse to RSMF with some creativity and research into what you've stumbled across. 
+- Brought dates within the data set into alignment to ensure the timeline of events is cohesive.
+- Manually set the MAC times for all of the loose files to ensure a cohesive timeline. 
+- Added additional context to certain threads. The timeline of events and certainly the document count overall feels good but the next step will be injecting targeted flags and events into this set.
+- Fixed a handful of parsing errors in the file attachments. Statistics now post-deduplication is around 204 to 205 depending on how aggressively suspicious systems are of C code living in a plain text file. If AV pops on the extraction of the file you'll know because only zero bytes will be seen when the agent rolls around to picking it up. *cough* better logging here from certain platforms here would be swell.
+- This is an opinion change on my part...I had said that this wasn't a good test set for benchmarking performance. After testing and debugging the set a few times this is a *fantastic* set if you need to see how quickly a processing system will churn through a tiny data set. 
 
 ## Contact Info
 

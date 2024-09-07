@@ -1,0 +1,300 @@
+From MAILER-DAEMON Sat Oct 21 15:30:22 1995
+From: alex.rivera@cyberdefense.com
+To: hal.benson@ellingson.com, sarah.chen@ellingson-it.com
+Subject: Engagement Confirmation - Cybersecurity Consultation
+Date: Sat, 21 Oct 1995 15:30:22 -0400
+Message-ID: <19951021153022.ABCD1234@cyberdefense.com>
+
+Dear Mr. Benson and Dr. Chen,
+
+This email confirms CyberDefense Consulting's engagement to assist Ellingson Mineral Company with its current cybersecurity crisis. As discussed in our call, I will be on-site within the hour to begin our initial assessment.
+
+Our immediate priorities will be:
+1. Contain the current threat
+2. Assess the extent of the breach
+3. Develop a strategy for system recovery and enhanced security
+
+I understand the sensitive nature of this situation and assure you of our utmost discretion. All our communications will be encrypted, and I'll provide daily updates on our progress.
+
+Looking forward to working with you to resolve this crisis.
+
+Best regards,
+Dr. Alex Rivera
+Senior Consultant, CyberDefense Consulting
+
+From MAILER-DAEMON Sun Oct 22 09:45:15 1995
+From: alex.rivera@cyberdefense.com
+To: hal.benson@ellingson.com, sarah.chen@ellingson-it.com
+Subject: Preliminary Assessment Report
+Date: Sun, 22 Oct 1995 09:45:15 -0400
+Message-ID: <19951022094515.EFGH5678@cyberdefense.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------BOUNDARY123456789"
+
+This is a multi-part message in MIME format.
+--------------BOUNDARY123456789
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear Mr. Benson and Dr. Chen,
+
+Please find attached my preliminary assessment report. The situation is critical, but not beyond recovery. I've outlined our immediate recommendations and next steps.
+
+Key findings:
+1. Sophisticated malware, dubbed "Da Vinci virus," has infiltrated core systems
+2. Evidence suggests inside knowledge was used in the attack
+3. Oil tanker routing systems compromised, posing significant risk
+4. Potential data exfiltration, extent yet unknown
+
+I'm available to discuss this report at your convenience.
+
+Best regards,
+Dr. Alex Rivera
+
+--------------BOUNDARY123456789
+Content-Type: text/plain; charset=utf-8; name="preliminary_assessment.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="preliminary_assessment.txt"
+
+UHJlbGltaW5hcnkgQXNzZXNzbWVudCBSZXBvcnQKRWxsaW5nc29uIE1pbmVyYWwgQ29tcGFu
+eSBDeWJlcnNlY3VyaXR5IEJyZWFjaApEci4gQWxleCBSaXZlcmEsIEN5YmVyRGVmZW5zZSBD
+b25zdWx0aW5nCk9jdG9iZXIgMjIsIDE5OTUKCjEuIEV4ZWN1dGl2ZSBTdW1tYXJ5OgpFbGxp
+bmdzb24gTWluZXJhbCBDb21wYW55IGhhcyBzdWZmZXJlZCBhIHNldmVyZSBjeWJlcnNlY3Vy
+aXR5IGJyZWFjaCwgbGlrZWx5IGZhY2lsaXRhdGVkIGJ5IGFuIGluc2lkZXIuIFRoZSBhdHRh
+Y2sgaW52b2x2ZXMgYSBzb3BoaXN0aWNhdGVkIG1hbHdhcmUgc3RyYWluLCB0ZW50YXRpdmVs
+eSBuYW1lZCB0aGUgIkRhIFZpbmNpIHZpcnVzLCIgd2hpY2ggaGFzIGNvbXByb21pc2VkIGNy
+aXRpY2FsIHN5c3RlbXMsIGluY2x1ZGluZyB0aGUgR2lic29uIHN1cGVyY29tcHV0ZXIgYW5k
+IG9pbCB0YW5rZXIgcm91dGluZyBzeXN0ZW1zLgoKMi4gS2V5IEZpbmRpbmdzOgotIE1hbHdh
+cmUgY2hhcmFjdGVyaXN0aWNzIHN1Z2dlc3QgaGlnaGx5IHNraWxsZWQgYXR0YWNrZXIocykg
+d2l0aCBkZWVwIGtub3dsZWRnZSBvZiBFbGxpbmdzb24ncyBzeXN0ZW1zCi0gRXZpZGVuY2Ug
+b2YgZGF0YSBleGZpbHRyYXRpb24sIGV4dGVudCB5ZXQgdG8gYmUgZGV0ZXJtaW5lZAotIE9p
+bCB0YW5rZXIgcm91dGluZyBzeXN0ZW1zIGNvbXByb21pc2VkLCBwb3Npbmcgc2lnbmlmaWNh
+bnQgc2FmZXR5IGFuZCBlbnZpcm9ubWVudGFsIHJpc2tzCi0gR2lic29uIHN1cGVyY29tcHV0
+ZXIgYmVpbmcgdXNlZCBhcyBhIGxhdW5jaHBhZCBmb3IgZnVydGhlciBhdHRhY2tzCgozLiBJ
+bW1lZGlhdGUgUmVjb21tZW5kYXRpb25zOgotIEluaXRpYXRlIGZ1bGwgc3lzdGVtIGxvY2tk
+b3duIHRvIHByZXZlbnQgZnVydGhlciBzcHJlYWQKLSBJc29sYXRlIGFuZCBzZWN1cmUgYmFj
+a3VwcyB0byBwcmV2ZW50IGNvbXByb21pc2UKLSBJbXBsZW1lbnQgZW1lcmdlbmN5IHBhdGNo
+ZXMgb24gYWxsIHN5c3RlbXMKLSBFbmdhZ2UgaW4gMjQvNyBtb25pdG9yaW5nIG9mIGFsbCBu
+ZXR3b3JrIHRyYWZmaWMKLSBDb25kdWN0IGZvcmVuc2ljIGFuYWx5c2lzIG9uIGNvbXByb21p
+c2VkIHN5c3RlbXMKCjQuIE5leHQgU3RlcHM6Ci0gRGV2ZWxvcCBhbmQgaW1wbGVtZW50IGlu
+Y2lkZW50IHJlc3BvbnNlIHBsYW4KLSBCZWdpbiBkZXRhaWxlZCBtYWx3YXJlIGFuYWx5c2lz
+Ci0gSW5pdGlhdGUgZW1wbG95ZWUgaW50ZXJ2aWV3cyB0byBpZGVudGlmeSBwb3RlbnRpYWwg
+aW5zaWRlciB0aHJlYXQKLSBEZXZlbG9wIHN0cmF0ZWd5IGZvciBzeXN0ZW0gcmVjb3Zlcnkg
+YW5kIHJlaW5mb3JjZW1lbnQKCjUuIExvbmctdGVybSBSZWNvbW1lbmRhdGlvbnM6Ci0gSW1w
+bGVtZW50IHplcm8tdHJ1c3Qgc2VjdXJpdHkgbW9kZWwKLSBFbmhhbmNlIGVtcGxveWVlIHNl
+Y3VyaXR5IHRyYWluaW5nCi0gRGV2ZWxvcCBhbmQgaW1wbGVtZW50IGNvbXByZWhlbnNpdmUg
+aW5jaWRlbnQgcmVzcG9uc2UgcGxhbgotIFJlZ3VsYXIgcGVuZXRyYXRpb24gdGVzdGluZyBh
+bmQgdnVsbmVyYWJpbGl0eSBhc3Nlc3NtZW50cwoKNi4gQ29uY2x1c2lvbjoKVGhlIHNpdHVh
+dGlvbiBpcyBjcml0aWNhbCBidXQgbWFuYWdlYWJsZSB3aXRoIHN3aWZ0IGFuZCBkZWNpc2l2
+ZSBhY3Rpb24uIFRoZSBuZXh0IDQ4IGhvdXJzIGFyZSBjcnVjaWFsIGluIGNvbnRhaW5pbmcg
+dGhlIHRocmVhdCBhbmQgcHJldmVudGluZyBmdXJ0aGVyIGRhbWFnZS4=
+
+--------------BOUNDARY123456789--
+
+From MAILER-DAEMON Mon Oct 23 10:30:45 1995
+From: alex.rivera@cyberdefense.com
+To: hal.benson@ellingson.com, sarah.chen@ellingson-it.com
+Subject: Daily Update 1 - Ellingson Cybersecurity Incident
+Date: Mon, 23 Oct 1995 10:30:45 -0400
+Message-ID: <19951023103045.IJKL9012@cyberdefense.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------BOUNDARY234567890"
+
+This is a multi-part message in MIME format.
+--------------BOUNDARY234567890
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear Mr. Benson and Dr. Chen,
+
+Here's the first daily update on our progress:
+
+1. Malware Analysis: We've isolated a sample of the Da Vinci virus and begun deep analysis. Initial findings suggest it's more sophisticated than initially thought.
+
+2. System Isolation: The Gibson supercomputer has been successfully isolated. We're working on purging the virus without damaging critical data.
+
+3. Oil Tanker Systems: We've implemented manual overrides on all tanker routing systems to prevent any potential disasters.
+
+4. Data Exfiltration: We've identified several unauthorized data transfers. The attached log file shows the destinations.
+
+5. Insider Threat: Our investigation suggests high-level insider involvement. We recommend interviewing all employees with top-level access, including recent departures.
+
+I'm available for a call at your convenience to discuss these findings in more detail.
+
+Best regards,
+Dr. Alex Rivera
+
+--------------BOUNDARY234567890
+Content-Type: text/plain; charset=utf-8; name="unauthorized_transfers.log"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="unauthorized_transfers.log"
+
+MjAyMy0xMC0yMiAxNTozMDoxMCBEYXRhIHRyYW5zZmVyIHRvIElQOiAxOTUuMjMuNDUuNjcg
+LSAxLjJHQgoyMDIzLTEwLTIyIDE4OjQ1OjIyIERhdGEgdHJhbnNmZXIgdG8gSVA6IDIwOS41
+OC4xODEuMTMgLSA4MDBNQgoyMDIzLTEwLTIyIDIyOjEwOjA1IERhdGEgdHJhbnNmZXIgdG8g
+SVA6IDE2OC4zNC43OC45MCAtIDIuMUdCCjIwMjMtMTAtMjMgMDE6MzA6MTggRGF0YSB0cmFu
+c2ZlciB0byBJUDogMTc4LjEyLjIzLjU2IC0gNTAwTUIKMjAyMy0xMC0yMyAwMzo0NTozMCBE
+YXRhIHRyYW5zZmVyIHRvIElQOiAxOTUuMjMuNDUuNjcgLSAxLjVHQgoyMDIzLTEwLTIzIDA2
+OjIwOjQ1IERhdGEgdHJhbnNmZXIgdG8gSVA6IDIwOS41OC4xODEuMTMgLSAxLjhHQg==
+
+--------------BOUNDARY234567890--
+
+From MAILER-DAEMON Tue Oct 24 11:15:30 1995
+From: alex.rivera@cyberdefense.com
+To: hal.benson@ellingson.com, sarah.chen@ellingson-it.com
+Subject: Daily Update 2 - Ellingson Cybersecurity Incident
+Date: Tue, 24 Oct 1995 11:15:30 -0400
+Message-ID: <19951024111530.MNOP3456@cyberdefense.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------BOUNDARY345678901"
+
+This is a multi-part message in MIME format.
+--------------BOUNDARY345678901
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear Mr. Benson and Dr. Chen,
+
+Here's the second daily update on our progress:
+
+1. Malware Containment: We've successfully contained the Da Vinci virus. The Gibson is now isolated and clean.
+
+2. System Recovery: We're in the process of restoring systems from clean backups. Estimated completion time: 48 hours.
+
+3. Oil Tanker Systems: All systems have been verified clean and are back under normal operation with enhanced monitoring.
+
+4. Data Analysis: We've begun analyzing the exfiltrated data. Preliminary findings suggest the focus was on financial records and proprietary algorithms.
+
+5. Security Enhancements: We've drafted a set of immediate security enhancements. Implementation will begin once systems are fully restored.
+
+6. PR Strategy: I've reviewed the draft press statement. My suggested edits are attached.
+
+We're making good progress, but we're not out of the woods yet. I recommend maintaining current security protocols for at least another week.
+
+Best regards,
+Dr. Alex Rivera
+
+--------------BOUNDARY345678901
+Content-Type: text/plain; charset=utf-8; name="draft_press_statement.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="draft_press_statement.txt"
+
+RHJhZnQgUHJlc3MgU3RhdGVtZW50IC0gRWxsaW5nc29uIE1pbmVyYWwgQ29tcGFueQoKRk9S
+IElNTUVESUFURSBSRUxFQVNFCgpFbGxpbmdzb24gTWluZXJhbCBDb21wYW55IEFkZHJlc3Nl
+cyBSZWNlbnQgQ3liZXJzZWN1cml0eSBJbmNpZGVudAoKTmV3IFlvcmssIE9jdG9iZXIgMjQs
+IDE5OTUgLSBFbGxpbmdzb24gTWluZXJhbCBDb21wYW55ICgiRWxsaW5nc29uIiBvciAidGhl
+IENvbXBhbnkiKSB0b2RheSBhbm5vdW5jZWQgdGhhdCBpdCByZWNlbnRseSBleHBlcmllbmNl
+ZCBhIGN5YmVyc2VjdXJpdHkgaW5jaWRlbnQuIFRoZSBDb21wYW55IHRvb2sgaW1tZWRpYXRl
+IGFjdGlvbiB0byBjb250YWluIHRoZSBpbmNpZGVudCBhbmQgaXMgd29ya2luZyB3aXRoIGxl
+YWRpbmcgY3liZXJzZWN1cml0eSBleHBlcnRzIHRvIGNvbmR1Y3QgYSB0aG9yb3VnaCBpbnZl
+c3RpZ2F0aW9uLgoKSGFsIEJlbnNvbiwgQ0VPIG9mIEVsbGluZ3NvbiBNaW5lcmFsIENvbXBh
+bnksIHN0YXRlZDogIldlIHRha2UgdGhlIHNlY3VyaXR5IGFuZCBpbnRlZ3JpdHkgb2Ygb3Vy
+IHN5c3RlbXMgZXh0cmVtZWx5IHNlcmlvdXNseS4gV2hpbGUgdGhpcyBpbmNpZGVudCB3YXMg
+dW5mb3J0dW5hdGUsIGl0IGhhcyBhbGxvd2VkIHVzIHRvIGlkZW50aWZ5IGFuZCBhZGRyZXNz
+IHZ1bG5lcmFiaWxpdGllcyBpbiBvdXIgY3liZXJzZWN1cml0eSBpbmZyYXN0cnVjdHVyZS4g
+V2UgYXJlIGNvbW1pdHRlZCB0byBlbWVyZ2luZyBmcm9tIHRoaXMgc3Ryb25nZXIgYW5kIG1v
+cmUgc2VjdXJlIHRoYW4gZXZlci4iCgpUaGUgQ29tcGFueSBjYW4gY29uZmlybSB0aGF0Ogox
+LiBUaGUgaW5jaWRlbnQgaGFzIGJlZW4gY29udGFpbmVkLgoyLiBUaGVyZSBpcyBubyBldmlk
+ZW5jZSBvZiBhbnkgb25nb2luZyB1bmF1dGhvcml6ZWQgYWNjZXNzIHRvIEVsbGluZ3NvbiAg
+IHN5c3RlbXMuCjMuIFRoZSBDb21wYW55J3Mgb2lsIHRhbmtlciBmbGVldCBpcyBvcGVyYXRp
+bmcgbm9ybWFsbHksIGFuZCBhdCBubyBwb2ludCB3YXMgdGhlcmUgYW55IHJpc2sgb2YgZW52
+aXJvbm1lbnRhbCBkYW1hZ2UuCjQuIEVsbGluZ3NvbiBpcyBjb29wZXJhdGluZyBmdWxseSB3
+aXRoIGxhdyBlbmZvcmNlbWVudCBhZ2VuY2llcyBpbiB0aGVpciBvbmdvaW5nIGludmVzdGln
+YXRpb24uCjUuIFRoZSBDb21wYW55IGhhcyBpbXBsZW1lbnRlZCBlbmhhbmNlZCBzZWN1cml0
+eSBtZWFzdXJlcyB0byBwcmV2ZW50IHNpbWlsYXIgaW5jaWRlbnRzIGluIHRoZSBmdXR1cmUu
+CgpFbGxpbmdzb24gaXMgY29tbWl0dGVkIHRvIHRyYW5zcGFyZW5jeSBhbmQgd2lsbCBwcm92
+aWRlIHVwZGF0ZXMgYXMgbW9yZSBpbmZvcm1hdGlvbiBiZWNvbWVzIGF2YWlsYWJsZS4KCkZv
+ciBmdXJ0aGVyIGluZm9ybWF0aW9uLCBwbGVhc2UgY29udGFjdDoKRWxsaW5nc29uIE1pbmVy
+YWwgQ29tcGFueQpJbnZlc3RvciBSZWxhdGlvbnMKVGVsOiAoMjEyKSA1NTUtNzg5MApFbWFp
+bDogaXJAZWxsaW5nc29uLmNvbQoKU2FmZSBIYXJib3IgU3RhdGVtZW50OgpUaGlzIHByZXNz
+IHJlbGVhc2UgY29udGFpbnMgZm9yd2FyZC1sb29raW5nIHN0YXRlbWVudHMgdGhhdCBpbnZv
+bHZlIHJpc2tzIGFuZCB1bmNlcnRhaW50aWVzLiBBY3R1YWwgcmVzdWx0cyBtYXkgZGlmZmVy
+IG1hdGVyaWFsbHkgZnJvbSB0aGUgcmVzdWx0cyBwcmVkaWN0ZWQsIGFuZCByZXBvcnRlZCBy
+ZXN1bHRzIHNob3VsZCBub3QgYmUgY29uc2lkZXJlZCBhcyBhbiBpbmRpY2F0aW9uIG9mIGZ1
+dHVyZSBwZXJmb3JtYW5jZS4K
+
+--------------BOUNDARY345678901--
+
+From MAILER-DAEMON Thu Oct 26 16:45:22 1995
+From: alex.rivera@cyberdefense.com
+To: hal.benson@ellingson.com, sarah.chen@ellingson-it.com
+Subject: Final Incident Report - Ellingson Cybersecurity Breach
+Date: Thu, 26 Oct 1995 16:45:22 -0400
+Message-ID: <19951026164522.QRST7890@cyberdefense.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------BOUNDARY456789012"
+
+This is a multi-part message in MIME format.
+--------------BOUNDARY456789012
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear Mr. Benson and Dr. Chen,
+
+Please find attached the final incident report for the recent cybersecurity breach at Ellingson Mineral Company. This report provides a comprehensive overview of the incident, our response, and recommendations for future security enhancements.
+
+Key points:
+1. The Da Vinci virus has been fully eradicated from all systems.
+2. All critical systems have been restored and are operating normally.
+3. We've implemented several immediate security enhancements.
+4. Long-term recommendations are provided for ongoing security improvements.
+
+I'll be available for a final debrief at your convenience. It has been a pleasure working with your team during this challenging time.
+
+Best regards,
+Dr. Alex Rivera
+Senior Consultant, CyberDefense Consulting
+
+--------------BOUNDARY456789012
+Content-Type: text/plain; charset=utf-8; name="final_incident_report.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="final_incident_report.txt"
+
+RmluYWwgSW5jaWRlbnQgUmVwb3J0IC0gRWxsaW5nc29uIE1pbmVyYWwgQ29tcGFueSBDeWJl
+cnNlY3VyaXR5IEJyZWFjaApEci4gQWxleCBSaXZlcmEsIEN5YmVyRGVmZW5zZSBDb25zdWx0
+aW5nCk9jdG9iZXIgMjYsIDE5OTUKCjEuIEV4ZWN1dGl2ZSBTdW1tYXJ5OgpFbGxpbmdzb24g
+TWluZXJhbCBDb21wYW55IGV4cGVyaWVuY2VkIGEgc2V2ZXJlIGN5YmVyc2VjdXJpdHkgYnJl
+YWNoIGJldHdlZW4gT2N0b2JlciAxOSBhbmQgT2N0b2JlciAyNCwgMTk5NS4gVGhlIGF0dGFj
+ayBpbnZvbHZlZCBhIHNvcGhpc3RpY2F0ZWQgbWFsd2FyZSBzdHJhaW4ga25vd24gYXMgdGhl
+ICJEYSBWaW5jaSB2aXJ1cywiIHdoaWNoIGNvbXByb21pc2VkIGNyaXRpY2FsIHN5c3RlbXMs
+IGluY2x1ZGluZyB0aGUgR2lic29uIHN1cGVyY29tcHV0ZXIgYW5kIG9pbCB0YW5rZXIgcm91
+dGluZyBzeXN0ZW1zLiBUaGUgaW5jaWRlbnQgaGFzIGJlZW4gZnVsbHkgY29udGFpbmVkLCBh
+bmQgYWxsIHN5c3RlbXMgaGF2ZSBiZWVuIHJlc3RvcmVkIHRvIG5vcm1hbCBvcGVyYXRpb24u
+CgoyLiBJbmNpZGVudCBUaW1lbGluZToKLSBPY3QgMTksIDIzOjU5OiBEYSBWaW5jaSB2aXJ1
+cyBhY3RpdmF0ZWQKLSBPY3QgMjAsIDAwOjE3OiBJbml0aWFsIGRldGVjdGlvbiBieSBEci4g
+U2FyYWggQ2hlbgotIE9jdCAyMCwgMDE6MTU6IFN5c3RlbS13aWRlIHNodXRkb3duIGluaXRp
+YXRlZAotIE9jdCAyMSwgMTU6MzA6IEN5YmVyRGVmZW5zZSBDb25zdWx0aW5nIGVuZ2FnZWQK
+LSBPY3QgMjIsIDA5OjQ1OiBQcmVsaW1pbmFyeSBhc3Nlc3NtZW50IGNvbXBsZXRlZAotIE9j
+dCAyMywgMTA6MzA6IE1hbHdhcmUgaXNvbGF0ZWQgYW5kIGFuYWx5c2lzIGJlZ3VuCi0gT2N0
+IDI0LCAxMToxNTogVmlydXMgY29udGFpbmVkLCBzeXN0ZW0gcmVzdG9yYXRpb24gaW5pdGlh
+dGVkCi0gT2N0IDI2LCAwOTowMDogQWxsIHN5c3RlbXMgcmVzdG9yZWQgYW5kIHZlcmlmaWVk
+IHNlY3VyZQoKMy4gQXR0YWNrIEFuYWx5c2lzOgotIFRoZSBEYSBWaW5jaSB2aXJ1cyBpcyBh
+IGhpZ2hseSBzb3BoaXN0aWNhdGVkLCBwb2x5bW9ycGhpYyBtYWx3YXJlCi0gRXZpZGVuY2Ug
+c3RlbXMsIGluY2x1ZGluZyB0aGUgR2lic29uIHN1cGVyY29tcHV0ZXIgYW5kIG9pbCB0YW5r
+ZXIgcm91dGluZyBzeXN0ZW1zCi0gQXBwcm94aW1hdGVseSA4LjVHQiBvZiBkYXRhIHdhcyBl
+eGZpbHRyYXRlZCB0byBtdWx0aXBsZSBleHRlcm5hbCBJUCBhZGRyZXNzZXMKCjQuIEltcGFj
+dCBBc3Nlc3NtZW50OgotIE5vIHBlcm1hbmVudCBkYXRhIGxvc3Mgb2NjdXJyZWQKLSBObyBl
+bnZpcm9ubWVudGFsIGRhbWFnZSBvciBzYWZldHkgaW5jaWRlbnRzIHJlc3VsdGVkIGZyb20g
+dGhlIGJyZWFjaAotIEVzdGltYXRlZCBmaW5hbmNpYWwgaW1wYWN0OiAkMTIgbWlsbGlvbiAo
+aW5jbHVkaW5nIHJlc3BvbnNlIGNvc3RzIGFuZCBsb3N0IHByb2R1Y3Rpdml0eSkKLSBQb3Rl
+bnRpYWwgcmVwdXRhdGlvbmFsIGRhbWFnZSwgZXh0ZW50IHlldCB0byBiZSBkZXRlcm1pbmVk
+Cgo1LiBSZW1lZGlhdGlvbiBBY3Rpb25zIFRha2VuOgotIEZ1bGwgc3lzdGVtLXdpZGUgc2Nh
+biBhbmQgY2xlYW51cAotIEltcGxlbWVudGF0aW9uIG9mIGVuaGFuY2VkIGZpcmV3YWxsIGFu
+ZCBpbnRydXNpb24gZGV0ZWN0aW9uIHN5c3RlbXMKLSBVcGRhdGVkIGFsbCBzeXN0ZW1zIHRv
+IGxhdGVzdCBzZWN1cml0eSBwYXRjaGVzCi0gUmV2aXNlZCBhY2Nlc3MgY29udHJvbCBwb2xp
+Y2llcyBhbmQgaW1wbGVtZW50ZWQgc3Ryb25nZXIgYXV0aGVudGljYXRpb24gbWVhc3VyZXMK
+LSBFc3RhYmxpc2hlZCAyNC83IHNlY3VyaXR5IG1vbml0b3JpbmcgdGVhbQoKNi4gTG9uZy10
+ZXJtIFJlY29tbWVuZGF0aW9uczoKLSBJbXBsZW1lbnQgYSB6ZXJvLXRydXN0IHNlY3VyaXR5
+IG1vZGVsCi0gQ29uZHVjdCByZWd1bGFyIHNlY3VyaXR5IGF1ZGl0cyBhbmQgcGVuZXRyYXRp
+b24gdGVzdHMKLSBFbmhhbmNlIGVtcGxveWVlIGN5YmVyc2VjdXJpdHkgdHJhaW5pbmcgcHJv
+Z3JhbQotIERldmVsb3AgYW5kIG1haW50YWluIGEgY29tcHJlaGVuc2l2ZSBpbmNpZGVudCBy
+ZXNwb25zZSBwbGFuCi0gSW1wbGVtZW50IGFkdmFuY2VkIHRocmVhdCBkZXRlY3Rpb24gYW5k
+IHJlc3BvbnNlIGNhcGFiaWxpdGllcwotIEVzdGFibGlzaCBhIHZ1bG5lcmFiaWxpdHkgbWFu
+YWdlbWVudCBwcm9ncmFtCgpDb25jbHVzaW9uOgpXaGlsZSB0aGUgRWxsaW5nc29uIE1pbmVy
+YWwgQ29tcGFueSBjeWJlcnNlY3VyaXR5IGJyZWFjaCB3YXMgYSBzZXJpb3VzIGluY2lkZW50
+LCB0aGUgcHJvbXB0IGFuZCBlZmZlY3RpdmUgcmVzcG9uc2UgbWluaW1pemVkIGl0cyBpbXBh
+Y3QuIEJ5IGltcGxlbWVudGluZyB0aGUgcmVjb21tZW5kZWQgbG9uZy10ZXJtIG1lYXN1cmVz
+LCBFbGxpbmdzb24gY2FuIHNpZ25pZmljYW50bHkgZW5oYW5jZSBpdHMgY3liZXJzZWN1cml0
+eSBwb3N0dXJlIGFuZCByZWR1Y2UgdGhlIHJpc2sgb2YgZnV0dXJlIGluY2lkZW50cy4=
+
+--------------BOUNDARY456789012--

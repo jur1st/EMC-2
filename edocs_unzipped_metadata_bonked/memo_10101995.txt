@@ -1,0 +1,53 @@
+FEDERAL BUREAU OF INVESTIGATION
+INTERNAL MEMORANDUM
+
+DATE: September 10, 1995
+TO: Director, Cyber Division
+FROM: Special Agent Richard Gill
+SUBJECT: Ellingson Mineral Company Cyber Attack - Case Update
+CLASSIFICATION: CONFIDENTIAL
+
+Sir,
+
+I'm writing to provide an update on the Ellingson Mineral Company cyber attack investigation (Case #CYBER-95-08-26-001). We've made significant progress, but several challenges remain.
+
+1. Suspects:
+   a. Eugene Belford (aka "The Plague"): Still at large. Last known location: South Pacific island, exact coordinates unknown.
+   b. Margo Wallace: In custody, currently negotiating a plea deal in exchange for information.
+   c. Dade Murphy (aka "Zero Cool", "Crash Override"): Under surveillance. No direct evidence linking him to the Ellingson attack, but history suggests involvement.
+   d. Kate Libby (aka "Acid Burn"): Also under surveillance. Appears to be working with Murphy.
+
+2. Evidence:
+   a. Da Vinci Virus: Our tech team confirms it's the most sophisticated piece of malware they've ever encountered. Forensic analysis ongoing.
+   b. Gibson Supercomputer Logs: Partially recovered. Show unauthorized access from multiple points, including internal Ellingson IPs.
+   c. Oil Tanker Logs: Confirm widespread system compromise. Narrowly avoided environmental disaster.
+   d. Financial Records: Traced $24.5 million to offshore account. Working with Interpol to freeze assets.
+
+3. Challenges:
+   a. Encrypted Communications: We've intercepted communications between suspects, but encryption is military-grade. Decryption efforts ongoing.
+   b. Media Pressure: Story has gone global. Press painting young hackers as folk heroes. Need to control narrative.
+   c. Corporate Cooperation: Ellingson initially resistant to full disclosure. CEO Hal Benson now cooperating after federal pressure.
+
+4. Recent Developments:
+   a. Anonymous Tip: Received data dump from unknown source (possibly Murphy or associates) implicating Belford. Verifying authenticity.
+   b. Margo Wallace Testimony: Claims USB drive with incriminating evidence hidden in Ellingson building. Search warrant being executed.
+   c. Potential International Implications: Evidence suggests Belford may have compromised systems beyond Ellingson. Liaising with NSA on this angle.
+
+5. Next Steps:
+   a. Locate and apprehend Eugene Belford. Have requested NSA satellite support to narrow down his location.
+   b. Complete forensic analysis of Da Vinci virus. Goal: definitively tie it to Belford.
+   c. Interview Dade Murphy and associates. Approach: offer immunity in exchange for cooperation against Belford.
+   d. Prepare for potential Congressional hearings on the incident's implications for national cybersecurity.
+
+6. Personal Note:
+Sir, I must admit this case has taken unexpected turns. These young hackers, while misguided, have shown remarkable skill. Perhaps, after this is over, we should consider recruiting rather than imprisoning them. Their talents could be invaluable to our cybersecurity efforts.
+
+I will provide another update in 72 hours unless significant developments occur sooner.
+
+Respectfully,
+
+Special Agent Richard Gill
+FBI Cyber Division
+
+CC: Assistant Director, Organized Crime Division
+	Legal Attaché, US Embassy in Manila
